@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-04 19:49 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-04 20:12 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Ibbenbüren-Laggenbeck | **4.0 mm** | 2026-09-03 06:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Gescher KA | **3.0 mm** | 2026-09-03 07:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Ibbenbüren-Schafberg HB | **2.9 mm** | 2026-09-03 07:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 4 | Kleve-Warbeyen | **2.0 mm** | 2026-09-03 07:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Coesfeld KA | **1.3 mm** | 2026-09-03 07:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 6 | Heiden KA | **1.2 mm** | 2026-09-03 07:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 7 | Lienen | **1.2 mm** | 2026-09-03 07:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 8 | Nottuln-Westerberg | **1.1 mm** | 2026-09-03 07:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 9 | Steinfurt-Borghorst KA Süd | **0.8 mm** | 2026-09-03 07:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Altenberge KA | **0.8 mm** | 2026-09-03 07:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Rinteln-Goldbeck HB | **13.1 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 2 | Lengerich KA | **12.6 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 3 | Tecklenburg | **12.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 4 | Bünde-Spradow KA | **12.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 5 | Schöppingen KA | **11.7 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 6 | Oeynhausen, Bad KA | **11.1 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 7 | Stadtlohn-Wendfeld | **10.9 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 8 | Gescher KA | **10.7 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 9 | Vreden KA | **10.4 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 10 | Rödinghausen-Schwenningdorf RBF | **10.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
 <!-- TOP10_END -->
 
 ---
