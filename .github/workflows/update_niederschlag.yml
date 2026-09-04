@@ -3,7 +3,7 @@ name: NRW Niederschlag – stündliche Auswertung
 on:
   schedule:
     # Jede Stunde zur Minute 10 (UTC) – Quelldaten werden ~stündlich aktualisiert
-    - cron: "10 * * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
     # Manuelle Ausführung über GitHub UI jederzeit möglich
 
