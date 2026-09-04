@@ -2,8 +2,8 @@
   "meta": {
     "quelle": "Hochwasserportal NRW – Niederschlag",
     "url": "https://www.hochwasserportal.nrw/data/downloads/niederschlag.zip",
-    "generiert_am": "2026-09-04T20:12:52.441074+00:00",
-    "auswertung_24h_ab": "2026-09-03T20:12:52.441087+00:00",
+    "generiert_am": "2026-09-04T20:19:19.559221+00:00",
+    "auswertung_24h_ab": "2026-09-03T21:19:19.559235+01:00",
     "anzahl_stationen": 313
   },
   "stationen": [
@@ -15,8 +15,8 @@
       "summe_mm_24h": 0.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44206257",
@@ -26,8 +26,8 @@
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43126455",
@@ -37,8 +37,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37096308",
@@ -48,30 +48,30 @@
       "summe_mm_24h": 7.05,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52039062",
       "name": "Stolberg-Zweifall_2_NRW",
       "lat": 50.709207475734,
       "lon": 6.28597724582628,
-      "summe_mm_24h": 0.48,
+      "summe_mm_24h": 0.31,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55048925",
       "name": "Hellenthal-Udenbreth_NRW",
       "lat": 50.4099015775231,
       "lon": 6.37362796665571,
-      "summe_mm_24h": 0.36,
+      "summe_mm_24h": 0.18,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52100032",
@@ -81,19 +81,19 @@
       "summe_mm_24h": 0.24,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40076316",
       "name": "Gescher_KA_NRW",
       "lat": 51.9669647407105,
       "lon": 6.99754379229194,
-      "summe_mm_24h": 10.69,
+      "summe_mm_24h": 10.37,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42200027",
@@ -103,8 +103,8 @@
       "summe_mm_24h": 0.25,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52050061",
@@ -114,8 +114,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49020041",
@@ -125,8 +125,8 @@
       "summe_mm_24h": 1.18,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41190017",
@@ -136,8 +136,8 @@
       "summe_mm_24h": 1.43,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51050021",
@@ -147,8 +147,8 @@
       "summe_mm_24h": 0.27,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43190223",
@@ -158,8 +158,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44190026",
@@ -169,8 +169,8 @@
       "summe_mm_24h": 0.19,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50138934",
@@ -180,8 +180,8 @@
       "summe_mm_24h": 0.88,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36110111",
@@ -191,8 +191,8 @@
       "summe_mm_24h": 6.6,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40200017",
@@ -202,8 +202,8 @@
       "summe_mm_24h": 3.42,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39170996",
@@ -213,8 +213,8 @@
       "summe_mm_24h": 4.13,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38160017",
@@ -224,8 +224,8 @@
       "summe_mm_24h": 6.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50100032",
@@ -235,8 +235,8 @@
       "summe_mm_24h": 1.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45083465",
@@ -246,8 +246,8 @@
       "summe_mm_24h": 3.06,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43211486",
@@ -257,8 +257,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42180046",
@@ -279,8 +279,8 @@
       "summe_mm_24h": 0.39,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50020021",
@@ -290,8 +290,8 @@
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45120565",
@@ -301,8 +301,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41190110",
@@ -312,8 +312,8 @@
       "summe_mm_24h": 1.82,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49148764",
@@ -323,8 +323,8 @@
       "summe_mm_24h": 0.63,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44181831",
@@ -334,8 +334,8 @@
       "summe_mm_24h": 0.17,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38190067",
@@ -345,8 +345,8 @@
       "summe_mm_24h": 8.28,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44048926",
@@ -356,8 +356,8 @@
       "summe_mm_24h": 1.97,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44145039",
@@ -367,8 +367,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39169741",
@@ -378,19 +378,19 @@
       "summe_mm_24h": 7.35,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38208795",
       "name": "Rinteln-Goldbeck_HB_NRW",
       "lat": 52.1120552714161,
       "lon": 9.15657359002508,
-      "summe_mm_24h": 13.05,
+      "summe_mm_24h": 12.21,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43157153",
@@ -400,8 +400,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40118055",
@@ -411,8 +411,8 @@
       "summe_mm_24h": 3.93,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52106461",
@@ -422,8 +422,8 @@
       "summe_mm_24h": 0.32,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42117118",
@@ -433,8 +433,8 @@
       "summe_mm_24h": 4.2,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51141131",
@@ -444,8 +444,8 @@
       "summe_mm_24h": 2.18,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39067108",
@@ -455,8 +455,8 @@
       "summe_mm_24h": 10.37,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48148524",
@@ -466,8 +466,8 @@
       "summe_mm_24h": 0.51,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51154403",
@@ -477,8 +477,8 @@
       "summe_mm_24h": 2.93,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44170037",
@@ -488,8 +488,8 @@
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44075066",
@@ -499,8 +499,8 @@
       "summe_mm_24h": 3.1,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46090023",
@@ -510,8 +510,8 @@
       "summe_mm_24h": 1.05,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55040051",
@@ -521,8 +521,8 @@
       "summe_mm_24h": 0.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50120578",
@@ -532,8 +532,8 @@
       "summe_mm_24h": 1.4,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50065112",
@@ -543,8 +543,8 @@
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38194326",
@@ -554,8 +554,8 @@
       "summe_mm_24h": 7.68,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45190026",
@@ -565,19 +565,19 @@
       "summe_mm_24h": 0.37,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45100195",
       "name": "Witten-Schnee_NRW",
       "lat": 51.4313310813257,
       "lon": 7.42109227800088,
-      "summe_mm_24h": 0.25,
+      "summe_mm_24h": 0.22,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42196073",
@@ -587,8 +587,8 @@
       "summe_mm_24h": 0.6,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42020033",
@@ -598,8 +598,8 @@
       "summe_mm_24h": 4.04,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44206586",
@@ -609,19 +609,19 @@
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41030023",
       "name": "Kleve-Warbeyen_NRW",
       "lat": 51.8188017087989,
       "lon": 6.23883416586955,
-      "summe_mm_24h": 6.36,
+      "summe_mm_24h": 6.01,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45169583",
@@ -631,8 +631,8 @@
       "summe_mm_24h": 1.28,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50040031",
@@ -642,8 +642,8 @@
       "summe_mm_24h": 0.15,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45100185",
@@ -653,8 +653,8 @@
       "summe_mm_24h": 0.14,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42220042",
@@ -664,8 +664,8 @@
       "summe_mm_24h": 0.25,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41080106",
@@ -675,19 +675,19 @@
       "summe_mm_24h": 4.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40207829",
       "name": "Blomberg-Herrentrup-Reckenbruch_RÜB_NRW",
       "lat": 51.9207129997554,
       "lon": 9.04711500687703,
-      "summe_mm_24h": 4.91,
+      "summe_mm_24h": 4.87,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51050061",
@@ -697,8 +697,8 @@
       "summe_mm_24h": 2.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "54030091",
@@ -708,8 +708,8 @@
       "summe_mm_24h": 0.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47118285",
@@ -719,8 +719,8 @@
       "summe_mm_24h": 0.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40107118",
@@ -730,8 +730,8 @@
       "summe_mm_24h": 6.27,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43190016",
@@ -741,8 +741,8 @@
       "summe_mm_24h": 0.11,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52040081",
@@ -752,8 +752,8 @@
       "summe_mm_24h": 0.53,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47105125",
@@ -763,8 +763,8 @@
       "summe_mm_24h": 1.43,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48175333",
@@ -774,8 +774,8 @@
       "summe_mm_24h": 1.71,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46030053",
@@ -785,8 +785,8 @@
       "summe_mm_24h": 4.02,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53095986",
@@ -796,8 +796,8 @@
       "summe_mm_24h": 0.4,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45155046",
@@ -807,8 +807,8 @@
       "summe_mm_24h": 0.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41205610",
@@ -818,19 +818,19 @@
       "summe_mm_24h": 2.65,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38087108",
       "name": "Heek-Nienborg_KA_NRW",
       "lat": 52.139196186365,
       "lon": 7.08676552930351,
-      "summe_mm_24h": 8.11,
+      "summe_mm_24h": 8.08,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53030041",
@@ -840,8 +840,8 @@
       "summe_mm_24h": 0.66,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51159054",
@@ -851,8 +851,8 @@
       "summe_mm_24h": 2.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53092878",
@@ -862,8 +862,8 @@
       "summe_mm_24h": 0.44,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39140210",
@@ -873,8 +873,8 @@
       "summe_mm_24h": 6.66,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43160026",
@@ -884,8 +884,8 @@
       "summe_mm_24h": 0.24,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52080222",
@@ -895,8 +895,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49129308",
@@ -906,8 +906,8 @@
       "summe_mm_24h": 2.48,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37190310",
@@ -917,19 +917,19 @@
       "summe_mm_24h": 8.45,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37180363",
       "name": "Hille-Unterlübbe_RÜB_NRW",
       "lat": 52.2951324730967,
       "lon": 8.77102316081992,
-      "summe_mm_24h": 8.51,
+      "summe_mm_24h": 8.48,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41172460",
@@ -939,8 +939,8 @@
       "summe_mm_24h": 3.66,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43201149",
@@ -950,8 +950,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40170137",
@@ -961,19 +961,19 @@
       "summe_mm_24h": 5.59,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52149114",
       "name": "Neunkirchen-Salchendorf_NRW",
       "lat": 50.8003574298102,
       "lon": 8.00976046715651,
-      "summe_mm_24h": 3.46,
+      "summe_mm_24h": 3.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42200882",
@@ -983,8 +983,8 @@
       "summe_mm_24h": 0.45,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50110042",
@@ -994,8 +994,8 @@
       "summe_mm_24h": 0.72,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50145458",
@@ -1005,8 +1005,8 @@
       "summe_mm_24h": 0.59,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37127387",
@@ -1016,8 +1016,8 @@
       "summe_mm_24h": 12.27,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50090042",
@@ -1027,8 +1027,8 @@
       "summe_mm_24h": 0.26,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46090016",
@@ -1038,8 +1038,8 @@
       "summe_mm_24h": 0.69,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50168716",
@@ -1049,8 +1049,8 @@
       "summe_mm_24h": 2.79,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47130205",
@@ -1060,19 +1060,19 @@
       "summe_mm_24h": 0.55,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38167657",
       "name": "Spenge-Bardüttingdorf_NRW",
       "lat": 52.1223481139248,
       "lon": 8.42803095677709,
-      "summe_mm_24h": 6.38,
+      "summe_mm_24h": 5.87,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55050021",
@@ -1082,8 +1082,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51040031",
@@ -1093,8 +1093,8 @@
       "summe_mm_24h": 0.45,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47142758",
@@ -1104,8 +1104,8 @@
       "summe_mm_24h": 0.92,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42180356",
@@ -1115,8 +1115,8 @@
       "summe_mm_24h": 0.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39127118",
@@ -1126,8 +1126,8 @@
       "summe_mm_24h": 6.77,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48020011",
@@ -1137,8 +1137,8 @@
       "summe_mm_24h": 1.51,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49177201",
@@ -1148,19 +1148,19 @@
       "summe_mm_24h": 1.55,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40147164",
       "name": "Beelen_RUEB_NRW",
       "lat": 51.9279190182367,
       "lon": 8.1060046086083,
-      "summe_mm_24h": 4.23,
+      "summe_mm_24h": 4.16,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43207330",
@@ -1170,8 +1170,8 @@
       "summe_mm_24h": 0.15,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49010011",
@@ -1181,8 +1181,8 @@
       "summe_mm_24h": 0.19,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46180494",
@@ -1192,8 +1192,8 @@
       "summe_mm_24h": 0.49,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46080083",
@@ -1203,8 +1203,8 @@
       "summe_mm_24h": 1.43,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47158376",
@@ -1214,8 +1214,8 @@
       "summe_mm_24h": 1.51,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41076126",
@@ -1225,8 +1225,8 @@
       "summe_mm_24h": 6.19,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42172771",
@@ -1236,8 +1236,8 @@
       "summe_mm_24h": 0.12,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46128154",
@@ -1247,19 +1247,19 @@
       "summe_mm_24h": 1.09,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40106220",
       "name": "Nottuln-Westerberg_NRW",
       "lat": 51.9627459642128,
       "lon": 7.3574037912563,
-      "summe_mm_24h": 8.55,
+      "summe_mm_24h": 8.28,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41030013",
@@ -1269,8 +1269,8 @@
       "summe_mm_24h": 4.46,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43140016",
@@ -1280,8 +1280,8 @@
       "summe_mm_24h": 1.36,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47130105",
@@ -1291,8 +1291,8 @@
       "summe_mm_24h": 0.52,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49010031",
@@ -1302,8 +1302,8 @@
       "summe_mm_24h": 0.98,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43130049",
@@ -1313,8 +1313,8 @@
       "summe_mm_24h": 3.2,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46080123",
@@ -1324,8 +1324,8 @@
       "summe_mm_24h": 2.83,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40190027",
@@ -1335,8 +1335,8 @@
       "summe_mm_24h": 5.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42190026",
@@ -1346,8 +1346,8 @@
       "summe_mm_24h": 0.29,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47158334",
@@ -1357,8 +1357,8 @@
       "summe_mm_24h": 1.43,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42097115",
@@ -1368,8 +1368,8 @@
       "summe_mm_24h": 4.83,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48135769",
@@ -1379,8 +1379,8 @@
       "summe_mm_24h": 0.93,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47138374",
@@ -1390,8 +1390,8 @@
       "summe_mm_24h": 1.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39086216",
@@ -1401,8 +1401,8 @@
       "summe_mm_24h": 9.6,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39180057",
@@ -1412,8 +1412,8 @@
       "summe_mm_24h": 5.64,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38170047",
@@ -1423,8 +1423,8 @@
       "summe_mm_24h": 7.08,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44155573",
@@ -1434,8 +1434,8 @@
       "summe_mm_24h": 0.14,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38100111",
@@ -1445,8 +1445,8 @@
       "summe_mm_24h": 9.74,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46120105",
@@ -1456,8 +1456,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37160110",
@@ -1467,8 +1467,8 @@
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47030113",
@@ -1478,8 +1478,8 @@
       "summe_mm_24h": 0.39,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52080022",
@@ -1489,8 +1489,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51090963",
@@ -1500,19 +1500,19 @@
       "summe_mm_24h": 0.74,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52040061",
       "name": "Huertgenwald-Althubertshöhe_NRW",
       "lat": 50.7497248465852,
       "lon": 6.39315507960807,
-      "summe_mm_24h": 0.36,
+      "summe_mm_24h": 0.33,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45180036",
@@ -1522,8 +1522,8 @@
       "summe_mm_24h": 1.49,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39190067",
@@ -1533,19 +1533,19 @@
       "summe_mm_24h": 6.91,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38127118",
       "name": "Lengerich_KA_NRW",
       "lat": 52.1703402644666,
       "lon": 7.83138248180334,
-      "summe_mm_24h": 12.61,
+      "summe_mm_24h": 12.58,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45120245",
@@ -1555,8 +1555,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41157108",
@@ -1566,8 +1566,8 @@
       "summe_mm_24h": 3.25,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51110012",
@@ -1577,8 +1577,8 @@
       "summe_mm_24h": 2.65,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40160052",
@@ -1588,8 +1588,8 @@
       "summe_mm_24h": 7.36,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42060015",
@@ -1599,8 +1599,8 @@
       "summe_mm_24h": 2.31,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41160042",
@@ -1610,8 +1610,8 @@
       "summe_mm_24h": 2.29,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51100022",
@@ -1621,19 +1621,19 @@
       "summe_mm_24h": 1.29,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38180027",
       "name": "Herford-Kernstadt_NRW",
       "lat": 52.1262116483846,
       "lon": 8.68666730303481,
-      "summe_mm_24h": 4.69,
+      "summe_mm_24h": 4.11,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52090052",
@@ -1643,8 +1643,8 @@
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40137108",
@@ -1654,19 +1654,19 @@
       "summe_mm_24h": 1.03,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53030011",
       "name": "Hürtgenwald-Raffelsbrand_NRW",
       "lat": 50.6725765941437,
       "lon": 6.31701104683593,
-      "summe_mm_24h": 1.4,
+      "summe_mm_24h": 1.17,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42050023",
@@ -1676,8 +1676,8 @@
       "summe_mm_24h": 2.78,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45070234",
@@ -1687,8 +1687,8 @@
       "summe_mm_24h": 1.77,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52040011",
@@ -1698,8 +1698,8 @@
       "summe_mm_24h": 0.33,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52080082",
@@ -1709,8 +1709,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37086108",
@@ -1720,8 +1720,8 @@
       "summe_mm_24h": 6.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38170087",
@@ -1731,8 +1731,8 @@
       "summe_mm_24h": 9.96,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "35160017",
@@ -1742,8 +1742,8 @@
       "summe_mm_24h": 9.25,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45165036",
@@ -1753,19 +1753,19 @@
       "summe_mm_24h": 0.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36162288",
       "name": "Preußisch-Oldendorf-Harlinghausen_WW_NRW",
       "lat": 52.3207682322764,
       "lon": 8.47874799229993,
-      "summe_mm_24h": 9.95,
+      "summe_mm_24h": 9.92,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37107108",
@@ -1775,19 +1775,19 @@
       "summe_mm_24h": 8.98,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39190671",
       "name": "Kalletal-Brosen_HB_NRW",
       "lat": 52.0932742060563,
       "lon": 8.95079098352748,
-      "summe_mm_24h": 6.39,
+      "summe_mm_24h": 6.36,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50150212",
@@ -1797,8 +1797,8 @@
       "summe_mm_24h": 1.15,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "4281334000100",
@@ -1808,8 +1808,8 @@
       "summe_mm_24h": 1.8,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45110194",
@@ -1819,8 +1819,8 @@
       "summe_mm_24h": 0.42,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48175363",
@@ -1830,8 +1830,8 @@
       "summe_mm_24h": 1.68,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48080203",
@@ -1841,8 +1841,8 @@
       "summe_mm_24h": 0.59,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43137581",
@@ -1852,8 +1852,8 @@
       "summe_mm_24h": 2.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46138165",
@@ -1863,8 +1863,8 @@
       "summe_mm_24h": 0.99,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36170017",
@@ -1874,8 +1874,8 @@
       "summe_mm_24h": 7.27,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39117118",
@@ -1885,19 +1885,19 @@
       "summe_mm_24h": 4.98,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38180017",
       "name": "Herford_KA_NRW",
       "lat": 52.1262116483227,
       "lon": 8.68666727381985,
-      "summe_mm_24h": 5.29,
+      "summe_mm_24h": 5.04,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46118134",
@@ -1907,8 +1907,8 @@
       "summe_mm_24h": 0.27,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39075860",
@@ -1918,8 +1918,8 @@
       "summe_mm_24h": 10.94,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40170513",
@@ -1929,8 +1929,8 @@
       "summe_mm_24h": 6.14,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48148426",
@@ -1940,8 +1940,8 @@
       "summe_mm_24h": 1.13,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41076116",
@@ -1951,8 +1951,8 @@
       "summe_mm_24h": 6.58,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44130149",
@@ -1973,8 +1973,8 @@
       "summe_mm_24h": 11.12,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47138196",
@@ -1984,8 +1984,8 @@
       "summe_mm_24h": 1.44,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44200032",
@@ -1995,8 +1995,8 @@
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41127118",
@@ -2006,8 +2006,8 @@
       "summe_mm_24h": 1.8,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46175016",
@@ -2017,8 +2017,8 @@
       "summe_mm_24h": 1.59,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41136208",
@@ -2028,8 +2028,8 @@
       "summe_mm_24h": 2.45,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49100012",
@@ -2039,8 +2039,8 @@
       "summe_mm_24h": 0.53,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37165391",
@@ -2050,8 +2050,8 @@
       "summe_mm_24h": 10.34,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48027396",
@@ -2061,8 +2061,8 @@
       "summe_mm_24h": 0.91,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53030071",
@@ -2072,8 +2072,8 @@
       "summe_mm_24h": 2.67,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "53040071",
@@ -2083,8 +2083,8 @@
       "summe_mm_24h": 1.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48030011",
@@ -2094,8 +2094,8 @@
       "summe_mm_24h": 1.19,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46080154",
@@ -2105,8 +2105,8 @@
       "summe_mm_24h": 3.43,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43190026",
@@ -2127,8 +2127,8 @@
       "summe_mm_24h": 4.86,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49090012",
@@ -2138,8 +2138,8 @@
       "summe_mm_24h": 0.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48118474",
@@ -2149,8 +2149,8 @@
       "summe_mm_24h": 1.64,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46148264",
@@ -2160,8 +2160,8 @@
       "summe_mm_24h": 1.1,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49139444",
@@ -2171,8 +2171,8 @@
       "summe_mm_24h": 1.4,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38116208",
@@ -2182,8 +2182,8 @@
       "summe_mm_24h": 8.17,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46128319",
@@ -2193,19 +2193,19 @@
       "summe_mm_24h": 0.74,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "54037684",
       "name": "Monschau-Höfen_HB_NRW",
       "lat": 50.5224996982628,
       "lon": 6.30545154405915,
-      "summe_mm_24h": 0.88,
+      "summe_mm_24h": 0.64,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46050043",
@@ -2215,8 +2215,8 @@
       "summe_mm_24h": 3.16,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39190077",
@@ -2226,8 +2226,8 @@
       "summe_mm_24h": 5.78,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50166157",
@@ -2237,8 +2237,8 @@
       "summe_mm_24h": 0.99,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49142650",
@@ -2248,8 +2248,8 @@
       "summe_mm_24h": 0.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48128775",
@@ -2259,8 +2259,8 @@
       "summe_mm_24h": 0.95,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36160037",
@@ -2270,8 +2270,8 @@
       "summe_mm_24h": 6.86,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48188634",
@@ -2292,8 +2292,8 @@
       "summe_mm_24h": 0.21,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44150059",
@@ -2303,19 +2303,19 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51030041",
       "name": "Eschweiler_RÜB_NRW",
       "lat": 50.8160648775361,
       "lon": 6.29268351796095,
-      "summe_mm_24h": 1.59,
+      "summe_mm_24h": 1.5,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39180067",
@@ -2325,8 +2325,8 @@
       "summe_mm_24h": 4.99,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49152819",
@@ -2336,8 +2336,8 @@
       "summe_mm_24h": 1.05,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51020051",
@@ -2358,8 +2358,8 @@
       "summe_mm_24h": 7.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38135176",
@@ -2369,19 +2369,19 @@
       "summe_mm_24h": 10.31,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52146176",
       "name": "Burbach-Holzhausen_NRW",
       "lat": 50.7378636475581,
       "lon": 8.12504593109017,
-      "summe_mm_24h": 0.82,
+      "summe_mm_24h": 0.64,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37160027",
@@ -2391,8 +2391,8 @@
       "summe_mm_24h": 8.39,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51100052",
@@ -2402,8 +2402,8 @@
       "summe_mm_24h": 4.02,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42150056",
@@ -2413,8 +2413,8 @@
       "summe_mm_24h": 1.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49120107",
@@ -2424,8 +2424,8 @@
       "summe_mm_24h": 0.98,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46108014",
@@ -2435,8 +2435,8 @@
       "summe_mm_24h": 1.47,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39105193",
@@ -2446,8 +2446,8 @@
       "summe_mm_24h": 8.55,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43160036",
@@ -2457,8 +2457,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42170036",
@@ -2468,8 +2468,8 @@
       "summe_mm_24h": 0.45,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42188260",
@@ -2479,8 +2479,8 @@
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49134053",
@@ -2490,8 +2490,8 @@
       "summe_mm_24h": 0.82,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52141117",
@@ -2501,19 +2501,19 @@
       "summe_mm_24h": 1.17,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40180052",
       "name": "Augustdorf_KA_NRW",
       "lat": 51.9018299305533,
       "lon": 8.71009375640979,
-      "summe_mm_24h": 3.47,
+      "summe_mm_24h": 3.4,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45165076",
@@ -2523,8 +2523,8 @@
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55055303",
@@ -2534,8 +2534,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50156816",
@@ -2545,8 +2545,8 @@
       "summe_mm_24h": 1.5,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47070083",
@@ -2556,8 +2556,8 @@
       "summe_mm_24h": 0.93,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55045955",
@@ -2567,8 +2567,8 @@
       "summe_mm_24h": 0.04,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43209167",
@@ -2578,8 +2578,8 @@
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39200017",
@@ -2589,8 +2589,8 @@
       "summe_mm_24h": 6.77,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49030031",
@@ -2600,8 +2600,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44190016",
@@ -2611,8 +2611,8 @@
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41056116",
@@ -2622,8 +2622,8 @@
       "summe_mm_24h": 4.91,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49030011",
@@ -2633,8 +2633,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51029055",
@@ -2644,8 +2644,8 @@
       "summe_mm_24h": 1.15,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47128557",
@@ -2655,8 +2655,8 @@
       "summe_mm_24h": 0.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49090032",
@@ -2666,8 +2666,8 @@
       "summe_mm_24h": 0.44,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55060021",
@@ -2677,8 +2677,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46118145",
@@ -2688,19 +2688,19 @@
       "summe_mm_24h": 0.94,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36170027",
       "name": "Lübbecke_KA_NRW",
       "lat": 52.3210962900458,
       "lon": 8.6193866899119,
-      "summe_mm_24h": 9.66,
+      "summe_mm_24h": 9.63,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37170017",
@@ -2710,19 +2710,19 @@
       "summe_mm_24h": 12.26,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52020051",
       "name": "Aachen-Bildchen_NRW",
       "lat": 50.7264095182032,
       "lon": 6.03603953230913,
-      "summe_mm_24h": 0.37,
+      "summe_mm_24h": 0.29,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44138373",
@@ -2732,8 +2732,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37122044",
@@ -2743,8 +2743,8 @@
       "summe_mm_24h": 6.25,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "56051327",
@@ -2754,8 +2754,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48188505",
@@ -2765,8 +2765,8 @@
       "summe_mm_24h": 0.52,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43180042",
@@ -2776,8 +2776,8 @@
       "summe_mm_24h": 0.24,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47050023",
@@ -2787,8 +2787,8 @@
       "summe_mm_24h": 0.72,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48135002",
@@ -2798,8 +2798,8 @@
       "summe_mm_24h": 1.63,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49161763",
@@ -2809,8 +2809,8 @@
       "summe_mm_24h": 0.96,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39160047",
@@ -2820,8 +2820,8 @@
       "summe_mm_24h": 5.74,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52100062",
@@ -2831,8 +2831,8 @@
       "summe_mm_24h": 0.19,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41060016",
@@ -2842,8 +2842,8 @@
       "summe_mm_24h": 2.16,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45204564",
@@ -2853,19 +2853,19 @@
       "summe_mm_24h": 0.61,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49155388",
       "name": "Berleburg,_Bad-Aue_KA_NRW",
       "lat": 51.0458432633496,
       "lon": 8.31330804768668,
-      "summe_mm_24h": 1.84,
+      "summe_mm_24h": 1.81,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46150857",
@@ -2875,30 +2875,30 @@
       "summe_mm_24h": 1.41,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50040021",
       "name": "Jülich-Pattern_RÜB_NRW",
       "lat": 50.9595303282286,
       "lon": 6.39096907810806,
-      "summe_mm_24h": 0.16,
+      "summe_mm_24h": 0.13,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40219950",
       "name": "Lügde-Mischeid_HB_NRW",
       "lat": 51.8987408951513,
       "lon": 9.2495541042845,
-      "summe_mm_24h": 4.85,
+      "summe_mm_24h": 4.82,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52049126",
@@ -2908,8 +2908,8 @@
       "summe_mm_24h": 0.23,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49160112",
@@ -2919,19 +2919,19 @@
       "summe_mm_24h": 2.46,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51047621",
       "name": "Langerwehe_KA_NRW",
       "lat": 50.8230112715479,
       "lon": 6.36858755023047,
-      "summe_mm_24h": 2.91,
+      "summe_mm_24h": 2.83,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49030021",
@@ -2941,8 +2941,8 @@
       "summe_mm_24h": 0.04,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42060026",
@@ -2963,8 +2963,8 @@
       "summe_mm_24h": 1.78,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "38077108",
@@ -2974,8 +2974,8 @@
       "summe_mm_24h": 9.07,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "40140111",
@@ -2985,8 +2985,8 @@
       "summe_mm_24h": 8.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43170736",
@@ -3007,8 +3007,8 @@
       "summe_mm_24h": 1.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46090105",
@@ -3029,19 +3029,19 @@
       "summe_mm_24h": 1.26,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51020071",
       "name": "Herzogenrath-Worm_KA_NRW",
       "lat": 50.8838404977593,
       "lon": 6.08238819371565,
-      "summe_mm_24h": 0.37,
+      "summe_mm_24h": 0.34,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48060344",
@@ -3051,8 +3051,8 @@
       "summe_mm_24h": 0.37,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36127118",
@@ -3062,8 +3062,8 @@
       "summe_mm_24h": 7.54,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41210037",
@@ -3073,8 +3073,8 @@
       "summe_mm_24h": 1.08,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46128185",
@@ -3084,8 +3084,8 @@
       "summe_mm_24h": 0.3,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "15:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51089370",
@@ -3095,8 +3095,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "49158312",
@@ -3106,8 +3106,8 @@
       "summe_mm_24h": 3.37,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39096216",
@@ -3117,8 +3117,8 @@
       "summe_mm_24h": 11.67,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 10 mm",
-      "farbcode": "#229FDD"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "42182880",
@@ -3128,8 +3128,8 @@
       "summe_mm_24h": 0.18,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52075032",
@@ -3139,8 +3139,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41175016",
@@ -3150,8 +3150,8 @@
       "summe_mm_24h": 1.94,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44135039",
@@ -3161,8 +3161,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50139117",
@@ -3172,8 +3172,8 @@
       "summe_mm_24h": 0.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51080062",
@@ -3183,19 +3183,19 @@
       "summe_mm_24h": 0.36,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "54030011",
       "name": "Simmerath-Eicherscheid_NRW",
       "lat": 50.5792474996507,
       "lon": 6.29307370171364,
-      "summe_mm_24h": 2.07,
+      "summe_mm_24h": 1.85,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50158944",
@@ -3205,8 +3205,8 @@
       "summe_mm_24h": 1.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36170681",
@@ -3216,19 +3216,19 @@
       "summe_mm_24h": 7.98,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "52030041",
       "name": "Aachen-Kornelimünster_RÜB_NRW",
       "lat": 50.7260272103999,
       "lon": 6.15238200925689,
-      "summe_mm_24h": 0.5,
+      "summe_mm_24h": 0.4,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47188923",
@@ -3238,8 +3238,8 @@
       "summe_mm_24h": 1.02,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41152779",
@@ -3249,8 +3249,8 @@
       "summe_mm_24h": 2.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46070095",
@@ -3260,8 +3260,8 @@
       "summe_mm_24h": 2.63,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "55072727",
@@ -3271,8 +3271,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48095043",
@@ -3282,8 +3282,8 @@
       "summe_mm_24h": 0.42,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "36206308",
@@ -3293,8 +3293,8 @@
       "summe_mm_24h": 9.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "45200027",
@@ -3304,8 +3304,8 @@
       "summe_mm_24h": 0.64,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "44160066",
@@ -3315,8 +3315,8 @@
       "summe_mm_24h": 0.11,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "54078126",
@@ -3326,8 +3326,8 @@
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "50030051",
@@ -3337,8 +3337,8 @@
       "summe_mm_24h": 0.68,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "48143899",
@@ -3348,8 +3348,8 @@
       "summe_mm_24h": 0.89,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41200052",
@@ -3359,8 +3359,8 @@
       "summe_mm_24h": 0.71,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "41200047",
@@ -3370,8 +3370,8 @@
       "summe_mm_24h": 2.21,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 2 mm",
-      "farbcode": "#47C774"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "39170097",
@@ -3392,8 +3392,8 @@
       "summe_mm_24h": 9.99,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "51110062",
@@ -3403,8 +3403,8 @@
       "summe_mm_24h": 0.68,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47177667",
@@ -3414,8 +3414,8 @@
       "summe_mm_24h": 1.84,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "46108114",
@@ -3425,8 +3425,8 @@
       "summe_mm_24h": 0.39,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "37126708",
@@ -3436,8 +3436,8 @@
       "summe_mm_24h": 6.56,
       "letzter_messwert_datum": "2026-09-04",
       "letzter_messwert_uhrzeit": "16:00",
-      "klasse": "> 5 mm",
-      "farbcode": "#1BDAD8"
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "43120089",

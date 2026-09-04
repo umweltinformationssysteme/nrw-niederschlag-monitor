@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-04 20:12 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-04 20:19 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Rinteln-Goldbeck HB | **13.1 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Lengerich KA | **12.6 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 3 | Tecklenburg | **12.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Bünde-Spradow KA | **12.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 5 | Schöppingen KA | **11.7 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 6 | Oeynhausen, Bad KA | **11.1 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 7 | Stadtlohn-Wendfeld | **10.9 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 8 | Gescher KA | **10.7 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 9 | Vreden KA | **10.4 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 10 | Rödinghausen-Schwenningdorf RBF | **10.3 mm** | 2026-09-04 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 1 | Lengerich KA | **12.6 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 2 | Tecklenburg | **12.3 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 3 | Bünde-Spradow KA | **12.3 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 4 | Rinteln-Goldbeck HB | **12.2 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 5 | Schöppingen KA | **11.7 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 6 | Oeynhausen, Bad KA | **11.1 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 7 | Stadtlohn-Wendfeld | **10.9 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 8 | Gescher KA | **10.4 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 9 | Vreden KA | **10.4 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 10 | Rödinghausen-Schwenningdorf RBF | **10.3 mm** | 2026-09-04 16:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
 <!-- TOP10_END -->
 
 ---
