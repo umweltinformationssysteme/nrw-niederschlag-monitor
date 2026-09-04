@@ -32,8 +32,9 @@ STATIONS_FILE = Path("data/OpenHygon-Niederschlag-Stationen_EPSG4326.txt")
 # Zeitzone MEZ/MESZ (UTC+1 wie in den Quelldaten)
 TZ_NRW = timezone(timedelta(hours=1))
 
-# Schwellenwert in Stunden: ab wann gilt ein Wert als „nicht aktuell"
-MAX_AGE_HOURS = 3
+# Schwellenwert: ab wann gilt ein Stationswert als „nicht aktuell"
+# Basis ist die echte Systemzeit – nicht der neueste Zeitstempel im Datensatz
+MAX_AGE_HOURS = 2
 
 # ---------------------------------------------------------------------------
 # Niederschlagsklassen – Reihenfolge: höchster Schwellenwert zuerst
@@ -146,10 +147,28 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
     )
     log.info("%d Messzeitreihen-Zeilen geladen.", len(messungen))
 
-    # -- Referenzzeitpunkt ---------------------------------------------------
-    jetzt     = messungen["ts"].max()
-    start_24h = jetzt - timedelta(hours=24)
-    log.info("Auswertungsfenster: %s  →  %s", start_24h.isoformat(), jetzt.isoformat())
+    # -- Referenzzeitpunkt: echte Systemzeit (UTC+1) -------------------------
+    # WICHTIG: Nicht den neuesten Datensatz-Zeitstempel verwenden –
+    # sondern die tatsächliche Uhrzeit. Nur so werden Stationen korrekt
+    # als "nicht aktuell" markiert, wenn das Portal keine neuen Daten liefert.
+    jetzt_system = datetime.now(tz=TZ_NRW)
+    start_24h    = jetzt_system - timedelta(hours=24)
+    veraltet_ab  = jetzt_system - timedelta(hours=MAX_AGE_HOURS)
+
+    neuester_datensatz = messungen["ts"].max()
+    log.info("Systemzeit (Referenz):   %s", jetzt_system.isoformat())
+    log.info("Neuester Datensatz-TS:   %s", neuester_datensatz.isoformat())
+    log.info("Auswertungsfenster 24h:  %s  →  %s", start_24h.isoformat(), jetzt_system.isoformat())
+    log.info("Veraltet-Schwelle (%dh): %s", MAX_AGE_HOURS, veraltet_ab.isoformat())
+
+    # Warnung wenn der gesamte Datensatz veraltet ist
+    datensatz_alter = (jetzt_system - neuester_datensatz).total_seconds() / 3600
+    if datensatz_alter > MAX_AGE_HOURS:
+        log.warning(
+            "Datensatz insgesamt veraltet! Neuester Wert ist %.1f Stunden alt "
+            "(Schwelle: %d h). Alle Stationen werden als 'nicht aktuell' markiert.",
+            datensatz_alter, MAX_AGE_HOURS,
+        )
 
     fenster = messungen[messungen["ts"] > start_24h].copy()
 
@@ -174,9 +193,10 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
             })
             continue
 
-        letzter_ts    = alle["ts"].max()
-        alter_stunden = (jetzt - letzter_ts).total_seconds() / 3600
-        ist_veraltet  = alter_stunden > MAX_AGE_HOURS
+        letzter_ts = alle["ts"].max()
+
+        # Veraltet: letzter Messwert älter als MAX_AGE_HOURS relativ zur Systemzeit
+        ist_veraltet = letzter_ts < veraltet_ab
 
         summe = df_s["wert"].sum(min_count=1) if not df_s.empty else None
         if pd.isna(summe):
@@ -208,13 +228,11 @@ def schreibe_json(ergebnisse: list[dict], pfad: Path) -> None:
     pfad.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "meta": {
-            "quelle":           "Hochwasserportal NRW – Niederschlag",
-            "url":              DATA_URL,
-            "generiert_am":     datetime.now(tz=timezone.utc).isoformat(),
-            "auswertung_24h_ab": (
-                datetime.now(tz=timezone.utc) - timedelta(hours=24)
-            ).isoformat(),
-            "anzahl_stationen": len(ergebnisse),
+            "quelle":            "Hochwasserportal NRW – Niederschlag",
+            "url":               DATA_URL,
+            "generiert_am":      datetime.now(tz=timezone.utc).isoformat(),
+            "auswertung_24h_ab": (datetime.now(tz=TZ_NRW) - timedelta(hours=24)).isoformat(),
+            "anzahl_stationen":  len(ergebnisse),
         },
         "stationen": ergebnisse,
     }
@@ -239,6 +257,10 @@ def main() -> None:
     log.info("Top 10 Stationen (24h-Summe):")
     for i, s in enumerate(top10, 1):
         log.info("  %2d. %-55s  %6.1f mm  %s", i, s["name"], s["summe_mm_24h"], s["klasse"])
+
+    veraltet = sum(1 for e in ergebnisse if e["klasse"] == "nicht aktuelle Werte")
+    inaktiv  = sum(1 for e in ergebnisse if e["klasse"] == "zurzeit inaktive Station")
+    log.info("Gesamt: %d veraltet, %d inaktiv", veraltet, inaktiv)
 
 
 if __name__ == "__main__":
