@@ -1,0 +1,59 @@
+name: NRW Niederschlag – stündliche Auswertung
+
+on:
+  schedule:
+    # Jede Stunde zur Minute 10 (UTC) – Quelldaten werden ~stündlich aktualisiert
+    - cron: "10 * * * *"
+  workflow_dispatch:
+    # Manuelle Ausführung über GitHub UI jederzeit möglich
+
+permissions:
+  contents: write   # Nötig um output/niederschlag_nrw.json zu committen
+
+jobs:
+  auswertung:
+    name: Niederschlag auswerten und JSON aktualisieren
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # -----------------------------------------------------------------------
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # -----------------------------------------------------------------------
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      # -----------------------------------------------------------------------
+      - name: Niederschlag verarbeiten
+        run: python scripts/process_niederschlag.py
+
+      # -----------------------------------------------------------------------
+      - name: README – Top-10-Tabelle aktualisieren
+        run: python scripts/update_readme.py
+
+      # -----------------------------------------------------------------------
+      - name: Änderungen prüfen
+        id: check_diff
+        run: |
+          git diff --quiet output/niederschlag_nrw.json README.md \
+            && echo "changed=false" >> "$GITHUB_OUTPUT" \
+            || echo "changed=true"  >> "$GITHUB_OUTPUT"
+
+      # -----------------------------------------------------------------------
+      - name: JSON committen und pushen
+        if: steps.check_diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/niederschlag_nrw.json README.md
+          git commit -m "chore: Niederschlagsdaten aktualisiert $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
