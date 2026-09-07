@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-07 07:22 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-07 14:10 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **3.1 mm** | 2026-09-07 08:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Gescher KA | **2.7 mm** | 2026-09-07 08:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Nottuln-Westerberg | **1.4 mm** | 2026-09-07 08:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 4 | Mettingen KA | **1.2 mm** | 2026-09-07 08:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Dahlem-Esterbach Gestüt | **1.0 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Blankenheim-Freilingen | **1.0 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Laasphe, Bad Rote Hardt HB | **0.9 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Sundern-Meinkenbracht HB | **0.7 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Nieheim-Holzhausen | **0.7 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Laasphe, Bad-Banfe HB | **0.6 mm** | 2026-09-07 08:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Gescher KA | **2.9 mm** | 2026-09-07 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Kleve-Warbeyen | **2.0 mm** | 2026-09-07 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Mettingen KA | **1.1 mm** | 2026-09-07 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 4 | Dahlem-Esterbach Gestüt | **1.0 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Blankenheim-Freilingen | **1.0 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Laasphe, Bad Rote Hardt HB | **0.9 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Sundern-Meinkenbracht HB | **0.7 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Laasphe, Bad-Banfe HB | **0.6 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Nottuln-Westerberg | **0.6 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 10 | Burbach-Holzhausen | **0.6 mm** | 2026-09-07 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
 <!-- TOP10_END -->
 
 ---

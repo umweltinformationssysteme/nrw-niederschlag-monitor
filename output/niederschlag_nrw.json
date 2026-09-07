@@ -2,8 +2,8 @@
   "meta": {
     "quelle": "Hochwasserportal NRW – Niederschlag",
     "url": "https://www.hochwasserportal.nrw/data/downloads/niederschlag.zip",
-    "generiert_am": "2026-09-07T07:22:08.157841+00:00",
-    "auswertung_24h_ab": "2026-09-06T08:22:08.157850+01:00",
+    "generiert_am": "2026-09-07T14:10:27.893208+00:00",
+    "auswertung_24h_ab": "2026-09-06T15:10:27.893220+01:00",
     "anzahl_stationen": 313
   },
   "stationen": [
@@ -14,7 +14,7 @@
       "lon": 8.53695266313108,
       "summe_mm_24h": 0.53,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -25,7 +25,7 @@
       "lon": 8.99713707050921,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -36,7 +36,7 @@
       "lon": 9.25702798838117,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -45,9 +45,9 @@
       "name": "Ochtrup_KA_NRW",
       "lat": 52.197974,
       "lon": 7.201541,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -58,7 +58,7 @@
       "lon": 6.28597724582628,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -69,7 +69,7 @@
       "lon": 6.37362796665571,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -80,7 +80,7 @@
       "lon": 7.45386007479663,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -89,9 +89,9 @@
       "name": "Gescher_KA_NRW",
       "lat": 51.9669647407105,
       "lon": 6.99754379229194,
-      "summe_mm_24h": 2.69,
+      "summe_mm_24h": 2.89,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 2 mm",
       "farbcode": "#47C774"
     },
@@ -102,7 +102,7 @@
       "lon": 9.10572611158118,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -113,7 +113,7 @@
       "lon": 6.52699186579172,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -124,7 +124,7 @@
       "lon": 6.04166515760409,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -135,7 +135,7 @@
       "lon": 8.86363503203768,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -144,11 +144,11 @@
       "name": "Kerpen-Haus-Forst_Deponie_NRW",
       "lat": 50.8777186706928,
       "lon": 6.61620875397173,
-      "summe_mm_24h": 0.12,
+      "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "Kein Niederschlag",
+      "farbcode": "#FFFFFF"
     },
     {
       "station_no": "43190223",
@@ -157,7 +157,7 @@
       "lon": 8.87131331040787,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -168,7 +168,7 @@
       "lon": 8.97103004928422,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -179,7 +179,7 @@
       "lon": 7.98810907918552,
       "summe_mm_24h": 0.25,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -190,7 +190,7 @@
       "lon": 7.59505068666429,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -201,7 +201,7 @@
       "lon": 9.14553775022963,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -212,7 +212,7 @@
       "lon": 8.65848811704688,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -223,7 +223,7 @@
       "lon": 8.47725037403471,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -234,7 +234,7 @@
       "lon": 7.43949795302995,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -245,7 +245,7 @@
       "lon": 7.14364968149355,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -256,7 +256,7 @@
       "lon": 9.30911987040012,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -278,7 +278,7 @@
       "lon": 7.42076565406546,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -289,7 +289,7 @@
       "lon": 6.10342011548732,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -300,7 +300,7 @@
       "lon": 7.77421312085485,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -311,7 +311,7 @@
       "lon": 8.93853637851287,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -322,7 +322,7 @@
       "lon": 8.10549843416602,
       "summe_mm_24h": 0.33,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -333,7 +333,7 @@
       "lon": 8.7167816518837,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -344,7 +344,7 @@
       "lon": 8.99225947986936,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -355,7 +355,7 @@
       "lon": 6.37590988018253,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -366,7 +366,7 @@
       "lon": 8.06949622130539,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -377,7 +377,7 @@
       "lon": 8.40104082450548,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -388,7 +388,7 @@
       "lon": 9.15657359002508,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -399,7 +399,7 @@
       "lon": 8.25408800556216,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -410,7 +410,7 @@
       "lon": 7.59039900063903,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -421,7 +421,7 @@
       "lon": 7.43353589249632,
       "summe_mm_24h": 0.04,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -432,7 +432,7 @@
       "lon": 7.55274313325804,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -443,7 +443,7 @@
       "lon": 8.07945444837851,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -454,7 +454,7 @@
       "lon": 6.81081918516839,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -465,7 +465,7 @@
       "lon": 8.07304552081987,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -476,7 +476,7 @@
       "lon": 8.17179086663217,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -485,11 +485,11 @@
       "name": "Büren_NRW",
       "lat": 51.5444954443341,
       "lon": 8.55090374728917,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.2,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "44075066",
@@ -498,7 +498,7 @@
       "lon": 6.95096376944436,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -509,7 +509,7 @@
       "lon": 7.24646225463117,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -520,7 +520,7 @@
       "lon": 6.45772105892244,
       "summe_mm_24h": 0.96,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -531,7 +531,7 @@
       "lon": 7.79611322280113,
       "summe_mm_24h": 0.09,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -542,7 +542,7 @@
       "lon": 6.79262924561363,
       "summe_mm_24h": 0.13,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -553,7 +553,7 @@
       "lon": 8.87680896197615,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -564,7 +564,7 @@
       "lon": 8.89258366894379,
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -575,7 +575,7 @@
       "lon": 7.42109227800088,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -586,7 +586,7 @@
       "lon": 8.95432783350438,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -597,7 +597,7 @@
       "lon": 5.98434913831434,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -606,20 +606,20 @@
       "name": "Warburg-Hohenwepel_RUEB_NRW",
       "lat": 0.0,
       "lon": 0.0,
-      "summe_mm_24h": 0.03,
+      "summe_mm_24h": 0.12,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "41030023",
       "name": "Kleve-Warbeyen_NRW",
       "lat": 51.8188017087989,
       "lon": 6.23883416586955,
-      "summe_mm_24h": 3.1,
+      "summe_mm_24h": 2.02,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 2 mm",
       "farbcode": "#47C774"
     },
@@ -630,7 +630,7 @@
       "lon": 8.47045681161515,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -641,7 +641,7 @@
       "lon": 6.4365520062069,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -652,7 +652,7 @@
       "lon": 7.35818197629571,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -663,7 +663,7 @@
       "lon": 9.36908840586228,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -674,7 +674,7 @@
       "lon": 7.05601454961116,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -685,7 +685,7 @@
       "lon": 9.04711500687703,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -696,7 +696,7 @@
       "lon": 6.51619918077972,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -707,7 +707,7 @@
       "lon": 6.19436374179573,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -718,7 +718,7 @@
       "lon": 7.59391111528487,
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -729,7 +729,7 @@
       "lon": 7.41977915155768,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -740,7 +740,7 @@
       "lon": 8.90120953994069,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -751,7 +751,7 @@
       "lon": 6.39160056370321,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -762,7 +762,7 @@
       "lon": 7.46616821931563,
       "summe_mm_24h": 0.18,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -773,7 +773,7 @@
       "lon": 8.5537309933693,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -784,7 +784,7 @@
       "lon": 6.19580619310697,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -795,7 +795,7 @@
       "lon": 7.30927199615842,
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -806,7 +806,7 @@
       "lon": 8.18706582112681,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -817,7 +817,7 @@
       "lon": 9.01524800232452,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -826,9 +826,9 @@
       "name": "Heek-Nienborg_KA_NRW",
       "lat": 52.139196186365,
       "lon": 7.08676552930351,
-      "summe_mm_24h": 0.29,
+      "summe_mm_24h": 0.37,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -839,7 +839,7 @@
       "lon": 6.1909043076188,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -850,7 +850,7 @@
       "lon": 8.24266022,
       "summe_mm_24h": 0.09,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -861,7 +861,7 @@
       "lon": 7.29539962320467,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -872,7 +872,7 @@
       "lon": 8.1600429477161,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -883,7 +883,7 @@
       "lon": 8.35059974066317,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -894,7 +894,7 @@
       "lon": 7.01369587580183,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -905,7 +905,7 @@
       "lon": 7.76355306379247,
       "summe_mm_24h": 0.18,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -916,7 +916,7 @@
       "lon": 8.91156262029917,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -927,7 +927,7 @@
       "lon": 8.77102316081992,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -938,7 +938,7 @@
       "lon": 8.59950947500454,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "07:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -949,7 +949,7 @@
       "lon": 9.08058219951219,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -960,7 +960,7 @@
       "lon": 8.65878413939474,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -971,7 +971,7 @@
       "lon": 8.00976046715651,
       "summe_mm_24h": 0.12,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -980,11 +980,11 @@
       "name": "Nieheim-Holzhausen_NRW",
       "lat": 51.7907085448654,
       "lon": 9.13510585149162,
-      "summe_mm_24h": 0.66,
+      "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "letzter_messwert_uhrzeit": "14:00",
+      "klasse": "Kein Niederschlag",
+      "farbcode": "#FFFFFF"
     },
     {
       "station_no": "50110042",
@@ -993,7 +993,7 @@
       "lon": 7.52355072183478,
       "summe_mm_24h": 0.15,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1004,7 +1004,7 @@
       "lon": 8.09575489854873,
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1015,7 +1015,7 @@
       "lon": 7.80996799623919,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1026,7 +1026,7 @@
       "lon": 7.19693547973132,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1037,7 +1037,7 @@
       "lon": 7.26184629996251,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1048,7 +1048,7 @@
       "lon": 8.3593699997345,
       "summe_mm_24h": 0.61,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1059,7 +1059,7 @@
       "lon": 7.86930933569628,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1068,9 +1068,9 @@
       "name": "Spenge-Bardüttingdorf_NRW",
       "lat": 52.1223481139248,
       "lon": 8.42803095677709,
-      "summe_mm_24h": 0.2,
+      "summe_mm_24h": 0.28,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1081,7 +1081,7 @@
       "lon": 6.63205695172207,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1092,7 +1092,7 @@
       "lon": 6.41482422567991,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1103,7 +1103,7 @@
       "lon": 8.09569300551113,
       "summe_mm_24h": 0.73,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1112,9 +1112,9 @@
       "name": "Paderborn-Neuhaus_NRW",
       "lat": 51.7342082125046,
       "lon": 8.70937022811629,
-      "summe_mm_24h": 0.13,
+      "summe_mm_24h": 0.41,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "01:00",
+      "letzter_messwert_uhrzeit": "10:00",
       "klasse": "nicht aktuelle Werte",
       "farbcode": "#808080"
     },
@@ -1125,7 +1125,7 @@
       "lon": 7.83115978544221,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1136,7 +1136,7 @@
       "lon": 6.12038937272184,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1147,7 +1147,7 @@
       "lon": 8.50121300252355,
       "summe_mm_24h": 0.51,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1158,7 +1158,7 @@
       "lon": 8.1060046086083,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1169,7 +1169,7 @@
       "lon": 9.03461639471255,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1180,7 +1180,7 @@
       "lon": 5.9005105704812,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1191,7 +1191,7 @@
       "lon": 8.82307800140753,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1200,9 +1200,9 @@
       "name": "Velbert-Neviges_NRW",
       "lat": 51.3103157666751,
       "lon": 7.13253827997501,
-      "summe_mm_24h": 0.03,
+      "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1213,7 +1213,7 @@
       "lon": 8.29302208825091,
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1224,7 +1224,7 @@
       "lon": 6.68598612451618,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1235,7 +1235,7 @@
       "lon": 8.61759208898921,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1246,7 +1246,7 @@
       "lon": 7.70805027019507,
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1255,11 +1255,11 @@
       "name": "Nottuln-Westerberg_NRW",
       "lat": 51.9627459642128,
       "lon": 7.3574037912563,
-      "summe_mm_24h": 1.35,
+      "summe_mm_24h": 0.6,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "> 1 mm",
-      "farbcode": "#9CD433"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "41030013",
@@ -1268,7 +1268,7 @@
       "lon": 6.27026649200429,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1279,7 +1279,7 @@
       "lon": 8.11105778741282,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1290,7 +1290,7 @@
       "lon": 7.85271610303922,
       "summe_mm_24h": 0.23,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1301,7 +1301,7 @@
       "lon": 5.92543874332078,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1312,7 +1312,7 @@
       "lon": 7.93208808083294,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1323,7 +1323,7 @@
       "lon": 7.131401775986,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1332,11 +1332,11 @@
       "name": "Detmold_KA_NRW",
       "lat": 51.9466558696766,
       "lon": 8.86175532019052,
-      "summe_mm_24h": 0.11,
+      "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "Kein Niederschlag",
+      "farbcode": "#FFFFFF"
     },
     {
       "station_no": "42190026",
@@ -1345,7 +1345,7 @@
       "lon": 8.95609025391455,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1356,7 +1356,7 @@
       "lon": 8.15797441414419,
       "summe_mm_24h": 0.25,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1367,7 +1367,7 @@
       "lon": 7.20541656504221,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1378,7 +1378,7 @@
       "lon": 7.94783489631002,
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1389,7 +1389,7 @@
       "lon": 7.99376144921861,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1400,7 +1400,7 @@
       "lon": 7.08742017272275,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1411,7 +1411,7 @@
       "lon": 8.76643735774925,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1422,7 +1422,7 @@
       "lon": 8.51782305958282,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1431,11 +1431,11 @@
       "name": "Anröchte-Mellrich_RÜB_NRW",
       "lat": 51.5441670414589,
       "lon": 8.28758294652526,
-      "summe_mm_24h": 0.06,
+      "summe_mm_24h": 0.12,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "38100111",
@@ -1444,7 +1444,7 @@
       "lon": 7.37768900302045,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1455,7 +1455,7 @@
       "lon": 7.6690425778999,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1466,7 +1466,7 @@
       "lon": 8.48824686561813,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1477,7 +1477,7 @@
       "lon": 6.2248871814227,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1488,7 +1488,7 @@
       "lon": 7.11910690777081,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1499,7 +1499,7 @@
       "lon": 7.27093838303476,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1510,7 +1510,7 @@
       "lon": 6.39315507960807,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1521,7 +1521,7 @@
       "lon": 8.73449192557574,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1530,9 +1530,9 @@
       "name": "Kalletal-Niedermeien_NRW",
       "lat": 52.070331517441,
       "lon": 8.95659156884682,
-      "summe_mm_24h": 0.61,
+      "summe_mm_24h": 0.54,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1543,7 +1543,7 @@
       "lon": 7.83138248180334,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1554,7 +1554,7 @@
       "lon": 7.83254602972879,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1565,7 +1565,7 @@
       "lon": 8.18080199694916,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1576,7 +1576,7 @@
       "lon": 7.59937901308227,
       "summe_mm_24h": 0.16,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1587,7 +1587,7 @@
       "lon": 8.38735283523787,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1598,7 +1598,7 @@
       "lon": 6.7669488309575,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1609,7 +1609,7 @@
       "lon": 8.4078258818997,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1620,7 +1620,7 @@
       "lon": 7.3502598014207,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1629,9 +1629,9 @@
       "name": "Herford-Kernstadt_NRW",
       "lat": 52.1262116483846,
       "lon": 8.68666730303481,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "07:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1642,7 +1642,7 @@
       "lon": 7.24149754466572,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1653,7 +1653,7 @@
       "lon": 7.95042519861648,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1664,7 +1664,7 @@
       "lon": 6.31701104683593,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1675,7 +1675,7 @@
       "lon": 6.60320747441891,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1686,7 +1686,7 @@
       "lon": 6.87673100521948,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1697,7 +1697,7 @@
       "lon": 6.47968826282267,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1708,7 +1708,7 @@
       "lon": 7.04851236848428,
       "summe_mm_24h": 0.09,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1719,7 +1719,7 @@
       "lon": 7.01457352773142,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1730,7 +1730,7 @@
       "lon": 8.61754943037753,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1741,7 +1741,7 @@
       "lon": 8.48279499959371,
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1752,7 +1752,7 @@
       "lon": 8.35019346658851,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1763,7 +1763,7 @@
       "lon": 8.47874799229993,
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1774,7 +1774,7 @@
       "lon": 7.39254994886915,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1785,7 +1785,7 @@
       "lon": 8.95079098352748,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1796,7 +1796,7 @@
       "lon": 8.18641552957387,
       "summe_mm_24h": 0.32,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1807,7 +1807,7 @@
       "lon": 8.31714019289022,
       "summe_mm_24h": 0.35,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1818,7 +1818,7 @@
       "lon": 7.60787244515124,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1829,7 +1829,7 @@
       "lon": 8.60415600128427,
       "summe_mm_24h": 0.25,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1840,7 +1840,7 @@
       "lon": 7.05263218567053,
       "summe_mm_24h": 0.1,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1851,7 +1851,7 @@
       "lon": 7.96774452623944,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1862,7 +1862,7 @@
       "lon": 7.8760526998904,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1873,7 +1873,7 @@
       "lon": 8.63559649151951,
       "summe_mm_24h": 0.37,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -1884,7 +1884,7 @@
       "lon": 7.65076907602998,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1895,7 +1895,7 @@
       "lon": 8.68666727381985,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1906,7 +1906,7 @@
       "lon": 7.54581325500235,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1917,7 +1917,7 @@
       "lon": 6.93175525538977,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1928,7 +1928,7 @@
       "lon": 8.52037789781365,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1939,7 +1939,7 @@
       "lon": 8.15581775774553,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1950,7 +1950,7 @@
       "lon": 6.92607904539143,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1972,7 +1972,7 @@
       "lon": 8.82145842069049,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1981,9 +1981,9 @@
       "name": "Finnentrop-Rönkhausen_2_NRW",
       "lat": 51.2176890005048,
       "lon": 7.99193100331401,
-      "summe_mm_24h": 0.04,
+      "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -1992,9 +1992,9 @@
       "name": "Willebadessen-Peckelsheim_NRW",
       "lat": 51.5920796582723,
       "lon": 9.13842615974048,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2005,7 +2005,7 @@
       "lon": 7.73254043278713,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2016,7 +2016,7 @@
       "lon": 8.5820492786943,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2025,9 +2025,9 @@
       "name": "Sendenhorst-Hardt_NRW",
       "lat": 51.8326010577486,
       "lon": 7.88089863121048,
-      "summe_mm_24h": 0.05,
+      "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2038,7 +2038,7 @@
       "lon": 7.42005965470922,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2049,7 +2049,7 @@
       "lon": 8.48396147140801,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2060,7 +2060,7 @@
       "lon": 6.15961357842011,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2071,7 +2071,7 @@
       "lon": 6.29310279547988,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2082,7 +2082,7 @@
       "lon": 6.37584721469806,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2093,7 +2093,7 @@
       "lon": 6.27499578566328,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2104,7 +2104,7 @@
       "lon": 7.04346919677678,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2126,7 +2126,7 @@
       "lon": 7.35618645900002,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2137,7 +2137,7 @@
       "lon": 7.31885446084702,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2148,7 +2148,7 @@
       "lon": 7.61600309534192,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2159,7 +2159,7 @@
       "lon": 8.03935838714885,
       "summe_mm_24h": 0.11,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2170,7 +2170,7 @@
       "lon": 7.9053422223145,
       "summe_mm_24h": 0.09,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2181,7 +2181,7 @@
       "lon": 7.57775044960379,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2192,7 +2192,7 @@
       "lon": 7.69657079024957,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2203,7 +2203,7 @@
       "lon": 6.30545154405915,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2214,7 +2214,7 @@
       "lon": 6.60454187276298,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2223,11 +2223,11 @@
       "name": "Lemgo_KA_NRW",
       "lat": 52.0247813680176,
       "lon": 8.86010251718583,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.26,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "50166157",
@@ -2236,7 +2236,7 @@
       "lon": 8.42746299778734,
       "summe_mm_24h": 0.92,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2247,7 +2247,7 @@
       "lon": 8.08229354012959,
       "summe_mm_24h": 0.23,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2256,11 +2256,11 @@
       "name": "Herscheid_Oestertalsperre_Ebbetal_NRW",
       "lat": 51.160799055171,
       "lon": 7.79782785574893,
-      "summe_mm_24h": 0.21,
+      "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "> 0,1 mm",
-      "farbcode": "#FDFB6E"
+      "letzter_messwert_uhrzeit": "14:00",
+      "klasse": "Kein Niederschlag",
+      "farbcode": "#FFFFFF"
     },
     {
       "station_no": "36160037",
@@ -2269,7 +2269,7 @@
       "lon": 8.49813502384776,
       "summe_mm_24h": 0.24,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2291,7 +2291,7 @@
       "lon": 7.51361655699841,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2300,11 +2300,11 @@
       "name": "Sassendorf,_Bad_HRB_NRW",
       "lat": 51.5762207189359,
       "lon": 8.17301558804489,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.19,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "15:00",
+      "klasse": "> 0,1 mm",
+      "farbcode": "#FDFB6E"
     },
     {
       "station_no": "51030041",
@@ -2313,7 +2313,7 @@
       "lon": 6.29268351796095,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2324,7 +2324,7 @@
       "lon": 8.76668701179735,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2335,7 +2335,7 @@
       "lon": 8.19721922548689,
       "summe_mm_24h": 0.17,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2357,7 +2357,7 @@
       "lon": 7.13395559846654,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2368,7 +2368,7 @@
       "lon": 7.95868500173611,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2379,7 +2379,7 @@
       "lon": 8.12504593109017,
       "summe_mm_24h": 0.6,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2388,9 +2388,9 @@
       "name": "Rödinghausen_NRW",
       "lat": 52.2548096377636,
       "lon": 8.48247456558271,
-      "summe_mm_24h": 0.07,
+      "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2401,7 +2401,7 @@
       "lon": 7.4260691972814,
       "summe_mm_24h": 0.18,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2412,7 +2412,7 @@
       "lon": 8.17209897709329,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2423,7 +2423,7 @@
       "lon": 7.69344153700653,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2434,7 +2434,7 @@
       "lon": 7.48349212566109,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2445,7 +2445,7 @@
       "lon": 7.4884300035082,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2456,7 +2456,7 @@
       "lon": 8.48974635829108,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2467,7 +2467,7 @@
       "lon": 8.53409112681343,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2478,7 +2478,7 @@
       "lon": 0.0,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2489,7 +2489,7 @@
       "lon": 7.92040174193455,
       "summe_mm_24h": 0.07,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2500,7 +2500,7 @@
       "lon": 8.02725443229031,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2511,7 +2511,7 @@
       "lon": 8.71009375640979,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2522,7 +2522,7 @@
       "lon": 8.41752197019757,
       "summe_mm_24h": 0.13,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2533,7 +2533,7 @@
       "lon": 6.5043867095947,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2544,7 +2544,7 @@
       "lon": 8.19175299896224,
       "summe_mm_24h": 0.12,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2555,7 +2555,7 @@
       "lon": 6.95185754470664,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2566,7 +2566,7 @@
       "lon": 6.42477222587306,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2577,7 +2577,7 @@
       "lon": 9.11003917713066,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2588,7 +2588,7 @@
       "lon": 9.07611448414514,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2599,7 +2599,7 @@
       "lon": 6.26303851240457,
       "summe_mm_24h": 0.13,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2608,9 +2608,9 @@
       "name": "Lichtenau-Blankenrode_KA_NRW",
       "lat": 51.5417208230827,
       "lon": 8.90692832571347,
-      "summe_mm_24h": 0.0,
+      "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2621,7 +2621,7 @@
       "lon": 6.53761899689277,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2632,7 +2632,7 @@
       "lon": 6.22356167373853,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2643,9 +2643,9 @@
       "lon": 6.09973352391176,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
-      "klasse": "Kein Niederschlag",
-      "farbcode": "#FFFFFF"
+      "letzter_messwert_uhrzeit": "12:00",
+      "klasse": "nicht aktuelle Werte",
+      "farbcode": "#808080"
     },
     {
       "station_no": "47128557",
@@ -2654,7 +2654,7 @@
       "lon": 7.76103600049619,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2665,7 +2665,7 @@
       "lon": 7.28326970559213,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2676,7 +2676,7 @@
       "lon": 6.72427972117445,
       "summe_mm_24h": 0.96,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2687,7 +2687,7 @@
       "lon": 7.61158845235901,
       "summe_mm_24h": 0.13,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2698,7 +2698,7 @@
       "lon": 8.6193866899119,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2707,9 +2707,9 @@
       "name": "Bünde-Spradow_KA_NRW",
       "lat": 52.2016157448294,
       "lon": 8.60621875221462,
-      "summe_mm_24h": 0.4,
+      "summe_mm_24h": 0.36,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2720,7 +2720,7 @@
       "lon": 6.03603953230913,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2731,7 +2731,7 @@
       "lon": 7.95387735224933,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2742,7 +2742,7 @@
       "lon": 7.73987986733689,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2753,7 +2753,7 @@
       "lon": 6.54408599306964,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2764,7 +2764,7 @@
       "lon": 8.67432600065894,
       "summe_mm_24h": 0.29,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2775,7 +2775,7 @@
       "lon": 8.71464795730986,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2786,7 +2786,7 @@
       "lon": 6.65160154103178,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2797,7 +2797,7 @@
       "lon": 7.8361072395367,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2808,7 +2808,7 @@
       "lon": 8.43840100686801,
       "summe_mm_24h": 0.26,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2819,7 +2819,7 @@
       "lon": 8.43038839721762,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2830,7 +2830,7 @@
       "lon": 7.34711002920441,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2841,7 +2841,7 @@
       "lon": 6.83184599018222,
       "summe_mm_24h": 0.08,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2852,7 +2852,7 @@
       "lon": 9.10626622323892,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2863,7 +2863,7 @@
       "lon": 8.31330804768668,
       "summe_mm_24h": 0.37,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2874,7 +2874,7 @@
       "lon": 8.2612980007371,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2885,7 +2885,7 @@
       "lon": 6.39096907810806,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2896,7 +2896,7 @@
       "lon": 9.2495541042845,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2907,7 +2907,7 @@
       "lon": 6.3761329747653,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2918,7 +2918,7 @@
       "lon": 8.38467500161107,
       "summe_mm_24h": 0.44,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -2929,7 +2929,7 @@
       "lon": 6.36858755023047,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2940,7 +2940,7 @@
       "lon": 6.30936328184401,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2962,7 +2962,7 @@
       "lon": 8.04289600105833,
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2973,7 +2973,7 @@
       "lon": 6.90552365933126,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -2984,7 +2984,7 @@
       "lon": 8.02867099063007,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3006,7 +3006,7 @@
       "lon": 8.12964572315395,
       "summe_mm_24h": 0.3,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3028,7 +3028,7 @@
       "lon": 7.69941200821832,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3039,7 +3039,7 @@
       "lon": 6.08238819371565,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3048,9 +3048,9 @@
       "name": "Düsseldorf-Hamm_KA_NRW",
       "lat": 51.1969169934513,
       "lon": 6.73758299568414,
-      "summe_mm_24h": 0.22,
+      "summe_mm_24h": 0.41,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3059,9 +3059,9 @@
       "name": "Mettingen_KA_NRW",
       "lat": 52.3438638279313,
       "lon": 7.78484017709865,
-      "summe_mm_24h": 1.2,
+      "summe_mm_24h": 1.07,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 1 mm",
       "farbcode": "#9CD433"
     },
@@ -3072,7 +3072,7 @@
       "lon": 9.22253952318627,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3083,7 +3083,7 @@
       "lon": 7.72911238210276,
       "summe_mm_24h": 0.11,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "07:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3094,7 +3094,7 @@
       "lon": 7.11612300320954,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3105,7 +3105,7 @@
       "lon": 8.18540999470398,
       "summe_mm_24h": 0.36,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3116,7 +3116,7 @@
       "lon": 7.2236656884455,
       "summe_mm_24h": 0.14,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3127,7 +3127,7 @@
       "lon": 48613929.0,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3138,7 +3138,7 @@
       "lon": 6.91272480059991,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3149,7 +3149,7 @@
       "lon": 8.51714537171974,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3160,7 +3160,7 @@
       "lon": 7.85529721697487,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3171,7 +3171,7 @@
       "lon": 7.86051013524924,
       "summe_mm_24h": 0.15,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3182,7 +3182,7 @@
       "lon": 7.07174076583599,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3193,7 +3193,7 @@
       "lon": 6.29307370171364,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3204,7 +3204,7 @@
       "lon": 8.25119777815471,
       "summe_mm_24h": 0.36,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3215,7 +3215,7 @@
       "lon": 8.63369901393496,
       "summe_mm_24h": 0.31,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3226,7 +3226,7 @@
       "lon": 6.15238200925689,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3237,7 +3237,7 @@
       "lon": 8.70463699312116,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3248,7 +3248,7 @@
       "lon": 8.29750187055478,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3259,7 +3259,7 @@
       "lon": 6.92763206432435,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3270,7 +3270,7 @@
       "lon": 6.8780115752145,
       "summe_mm_24h": 0.23,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "> 0,1 mm",
       "farbcode": "#FDFB6E"
     },
@@ -3281,7 +3281,7 @@
       "lon": 7.28258796197798,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3292,7 +3292,7 @@
       "lon": 9.01304334662232,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3303,7 +3303,7 @@
       "lon": 9.11605196177759,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3314,7 +3314,7 @@
       "lon": 8.44236293901997,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3325,7 +3325,7 @@
       "lon": 6.87611228947285,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3336,7 +3336,7 @@
       "lon": 6.29013862656103,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3347,7 +3347,7 @@
       "lon": 8.1632170068649,
       "summe_mm_24h": 0.05,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3358,7 +3358,7 @@
       "lon": 9.09487819420036,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3369,7 +3369,7 @@
       "lon": 9.09813082925363,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3391,7 +3391,7 @@
       "lon": 6.94444288788927,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3402,7 +3402,7 @@
       "lon": 7.60242816673202,
       "summe_mm_24h": 0.03,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3413,7 +3413,7 @@
       "lon": 8.61086999818628,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3424,7 +3424,7 @@
       "lon": 7.45549717645829,
       "summe_mm_24h": 0.06,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "15:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
@@ -3435,7 +3435,7 @@
       "lon": 7.78421919216914,
       "summe_mm_24h": 0.0,
       "letzter_messwert_datum": "2026-09-07",
-      "letzter_messwert_uhrzeit": "08:00",
+      "letzter_messwert_uhrzeit": "14:00",
       "klasse": "Kein Niederschlag",
       "farbcode": "#FFFFFF"
     },
