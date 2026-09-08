@@ -134,12 +134,15 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
     # -- Stationsdaten aus Repo ----------------------------------------------
     station_lookup = lade_stationen()
 
-    # -- Messwerte aus ZIP ---------------------------------------------------
+    # Messwerte aus ZIP ---------------------------------------------------
     messungen = lies_messungen_aus_zip(zip_bytes)
     messungen["station_no"] = messungen["station_no"].astype(str).str.strip()
     messungen["wert"] = pd.to_numeric(messungen["wert"], errors="coerce")
+
+    # Einheit: Quelldaten in 1/100 mm → umrechnen in mm
+    messungen["wert"] = messungen["wert"] / 100
+
     messungen["ts"] = pd.to_datetime(messungen["time"], utc=False, errors="coerce")
-    messungen = messungen.dropna(subset=["ts"])
 
     # Zeitzone sicherstellen
     messungen["ts"] = messungen["ts"].apply(
