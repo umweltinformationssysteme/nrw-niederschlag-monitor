@@ -134,15 +134,12 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
     # -- Stationsdaten aus Repo ----------------------------------------------
     station_lookup = lade_stationen()
 
-    # Messwerte aus ZIP ---------------------------------------------------
+    # -- Messwerte aus ZIP ---------------------------------------------------
     messungen = lies_messungen_aus_zip(zip_bytes)
     messungen["station_no"] = messungen["station_no"].astype(str).str.strip()
     messungen["wert"] = pd.to_numeric(messungen["wert"], errors="coerce")
-
-    # Einheit: Quelldaten in 1/100 mm → umrechnen in mm
-    messungen["wert"] = messungen["wert"] / 100
-
     messungen["ts"] = pd.to_datetime(messungen["time"], utc=False, errors="coerce")
+    messungen = messungen.dropna(subset=["ts"])
 
     # Zeitzone sicherstellen
     messungen["ts"] = messungen["ts"].apply(
@@ -197,6 +194,21 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
             continue
 
         letzter_ts = alle["ts"].max()
+
+        # NaT abfangen: alle Zeitstempel dieser Station waren ungültig
+        if pd.isna(letzter_ts):
+            klasse, farbe = KLASSE_INAKTIV
+            ergebnisse.append({
+                "station_no": station_id,
+                "name": info["station_name"],
+                "lat":  float(info["station_latitude"]),
+                "lon":  float(info["station_longitude"]),
+                "summe_mm_24h": None,
+                "letzter_messwert_datum":   None,
+                "letzter_messwert_uhrzeit": None,
+                "klasse": klasse, "farbcode": farbe,
+            })
+            continue
 
         # Veraltet: letzter Messwert älter als MAX_AGE_HOURS relativ zur Systemzeit
         ist_veraltet = letzter_ts < veraltet_ab
