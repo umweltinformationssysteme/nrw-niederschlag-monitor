@@ -138,6 +138,13 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
     messungen = lies_messungen_aus_zip(zip_bytes)
     messungen["station_no"] = messungen["station_no"].astype(str).str.strip()
     messungen["wert"] = pd.to_numeric(messungen["wert"], errors="coerce")
+
+    # Doppelte Einträge aus Quelldaten entfernen (gleiche Station + Zeitstempel)
+    vor = len(messungen)
+    messungen = messungen.drop_duplicates(subset=["station_no", "time"], keep="first")
+    nach = len(messungen)
+    if vor != nach:
+        log.info("Duplikate entfernt: %d Zeilen -> %d Zeilen (%d entfernt)", vor, nach, vor - nach)
     messungen["ts"] = pd.to_datetime(messungen["time"], utc=False, errors="coerce")
     messungen = messungen.dropna(subset=["ts"])
 
@@ -151,14 +158,19 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
     # WICHTIG: Nicht den neuesten Datensatz-Zeitstempel verwenden –
     # sondern die tatsächliche Uhrzeit. Nur so werden Stationen korrekt
     # als "nicht aktuell" markiert, wenn das Portal keine neuen Daten liefert.
-    jetzt_system = datetime.now(tz=TZ_NRW)
-    start_24h    = jetzt_system - timedelta(hours=24)
-    veraltet_ab  = jetzt_system - timedelta(hours=MAX_AGE_HOURS)
-
+    jetzt_system       = datetime.now(tz=TZ_NRW)
     neuester_datensatz = messungen["ts"].max()
+    veraltet_ab        = jetzt_system - timedelta(hours=MAX_AGE_HOURS)
+
+    # Auswertungsfenster: letzter Messzeitpunkt im Datensatz als Ende,
+    # genau 23 Stunden zurück als Start -> ergibt 24 Stundenwerte (inkl. beider Enden).
+    # Das entspricht der Logik des Hochwasserportals NRW.
+    ende_fenster = neuester_datensatz
+    start_24h    = ende_fenster - timedelta(hours=23)
+
     log.info("Systemzeit (Referenz):   %s", jetzt_system.isoformat())
     log.info("Neuester Datensatz-TS:   %s", neuester_datensatz.isoformat())
-    log.info("Auswertungsfenster 24h:  %s  →  %s", start_24h.isoformat(), jetzt_system.isoformat())
+    log.info("Auswertungsfenster 24h:  %s  ->  %s", start_24h.isoformat(), ende_fenster.isoformat())
     log.info("Veraltet-Schwelle (%dh): %s", MAX_AGE_HOURS, veraltet_ab.isoformat())
 
     # Warnung wenn der gesamte Datensatz veraltet ist
@@ -170,7 +182,10 @@ def verarbeite(zip_bytes: bytes) -> list[dict]:
             datensatz_alter, MAX_AGE_HOURS,
         )
 
-    fenster = messungen[messungen["ts"] > start_24h].copy()
+    # >= und <= damit beide Endpunkte eingeschlossen sind (exakt 24 Stundenwerte)
+    fenster = messungen[
+        (messungen["ts"] >= start_24h) & (messungen["ts"] <= ende_fenster)
+    ].copy()
 
     # -- Je Station aggregieren ----------------------------------------------
     ergebnisse: list[dict] = []
