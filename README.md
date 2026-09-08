@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-08 08:02 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-08 08:19 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Drolshagen | **27.2 mm** | 2026-09-08 08:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 2 | Drolshagen-Brachtpe HB | **22.4 mm** | 2026-09-08 08:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Schmallenberg-Bracht PW | **13.6 mm** | 2026-09-08 08:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Ruppichteroth-Hänscheid | **9.6 mm** | 2026-09-08 08:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 5 | Nümbrecht-Homburg-Bröl KA | **9.5 mm** | 2026-09-08 08:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Olpe-Rhode | **7.5 mm** | 2026-09-08 08:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Neunkirchen-Salchendorf | **6.6 mm** | 2026-09-08 08:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Gummersbach-Piene-Lieberhausen HB | **5.2 mm** | 2026-09-08 08:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Finnentrop-Heggen | **4.6 mm** | 2026-09-08 08:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 10 | Lohmar-Wahlscheid-Höffen HB | **4.3 mm** | 2026-09-08 08:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 1 | Drolshagen | **27.2 mm** | 2026-09-08 09:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 2 | Drolshagen-Brachtpe HB | **22.4 mm** | 2026-09-08 09:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 3 | Schmallenberg-Bracht PW | **13.6 mm** | 2026-09-08 09:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 4 | Ruppichteroth-Hänscheid | **9.6 mm** | 2026-09-08 09:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Nümbrecht-Homburg-Bröl KA | **9.5 mm** | 2026-09-08 09:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Olpe-Rhode | **7.5 mm** | 2026-09-08 09:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Neunkirchen-Salchendorf | **6.6 mm** | 2026-09-08 09:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Gummersbach-Piene-Lieberhausen HB | **5.2 mm** | 2026-09-08 09:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Finnentrop-Heggen | **4.6 mm** | 2026-09-08 09:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Lohmar-Wahlscheid-Höffen HB | **4.3 mm** | 2026-09-08 09:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
 <!-- TOP10_END -->
 
 ---
