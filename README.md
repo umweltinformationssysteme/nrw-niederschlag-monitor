@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-09 12:53 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-10 12:50 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Oeynhausen, Bad KA | **16.8 mm** | 2026-09-09 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Rödinghausen-Schwenningdorf RBF | **15.6 mm** | 2026-09-09 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Lübbecke KA | **11.7 mm** | 2026-09-09 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Rödinghausen | **11.0 mm** | 2026-09-09 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 5 | Espelkamp WW | **9.9 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Hille-Unterlübbe RÜB | **9.6 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Ibbenbüren-Laggenbeck | **9.5 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Kleve-Warbeyen | **9.3 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Werther Westfalen | **9.0 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 10 | Ibbenbüren-Schafberg HB | **8.8 mm** | 2026-09-09 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Horn, Bad-Meinberg-Feldrom WW | **13.2 mm** | 2026-09-10 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 2 | Mettingen KA | **12.5 mm** | 2026-09-10 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 3 | Augustdorf KA | **10.4 mm** | 2026-09-10 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 4 | Schlangen-Oesterholz WW | **7.9 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Werther Westfalen | **6.7 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Krefeld-Oppum | **6.2 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Schermbeck-Dämmerwald Isselkant | **5.8 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Versmold-Vorbruch | **5.7 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Bielefeld-Brackwede WW | **5.4 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Steinhagen KA | **5.2 mm** | 2026-09-10 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
