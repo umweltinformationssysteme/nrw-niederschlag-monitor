@@ -2,7 +2,7 @@
   "meta": {
     "quelle": "Hochwasserportal NRW – Niederschlag",
     "url": "https://www.hochwasserportal.nrw/data/downloads/niederschlag.zip",
-    "generiert_am": "2026-09-11T12:36:45.703570+00:00",
+    "generiert_am": "2026-09-11T12:45:34.989353+00:00",
     "auswertung_24h_ab": "2026-09-10T12:00:00+00:00",
     "anzahl_stationen": 313,
     "hinweis_zeitzone": "Zeitangaben in MEZ (UTC+1). Das Hochwasserportal NRW liefert Daten konstant mit +01:00-Offset, auch im Sommer (MESZ)."
