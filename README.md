@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-11 12:45 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-12 12:05 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **4.3 mm** | 2026-09-11 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Gescher KA | **3.3 mm** | 2026-09-11 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Nottuln-Westerberg | **2.0 mm** | 2026-09-11 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 4 | Nieheim-Holzhausen | **1.8 mm** | 2026-09-11 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Selfkant-Havert RÜB | **1.0 mm** | 2026-09-11 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 6 | Herscheid Oestertalsperre Ebbetal | **1.0 mm** | 2026-09-11 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 7 | Mettingen KA | **1.0 mm** | 2026-09-11 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 8 | Sendenhorst-Hardt | **1.0 mm** | 2026-09-11 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Selfkant-Wehr | **0.9 mm** | 2026-09-11 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Spenge-Bardüttingdorf | **0.9 mm** | 2026-09-11 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Lemgo KA | **4.8 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Ibbenbüren-Laggenbeck | **3.6 mm** | 2026-09-12 12:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Oerlinghausen KA | **3.4 mm** | 2026-09-12 12:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Salzuflen, Bad-Holzhausen KA | **3.4 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 5 | Aachen-Soers KA 2 | **3.3 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 6 | Schieder-Schwalenberg | **3.1 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 7 | Horn, Bad-Meinberg-Feldrom WW | **3.0 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 8 | Kerpen-Haus-Forst Deponie | **2.9 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 9 | Nieheim-Holzhausen | **2.9 mm** | 2026-09-12 12:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Ibbenbüren-Schafberg HB | **2.8 mm** | 2026-09-12 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
 <!-- TOP10_END -->
 
 ---
