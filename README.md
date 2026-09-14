@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-13 13:15 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-14 14:56 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Wassenberg-Rothenbach | **27.5 mm** | 2026-09-13 14:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 2 | Wassenberg-Birgelen | **27.1 mm** | 2026-09-13 14:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 3 | Erkelenz-Gerderath | **25.9 mm** | 2026-09-13 14:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 4 | Selfkant-Havert RÜB | **24.9 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Gangelt-Birgden RÜB | **24.4 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Wegberg KA | **24.1 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Nettetal-Kaldenkirchen | **23.9 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Solingen-Wald | **23.2 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Meerbusch-Osterath | **21.8 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Erkelenz KA | **21.7 mm** | 2026-09-13 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Honnef, Bad-Rottbitze RRB | **18.9 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 2 | Neunkirchen-Zeppenfeld HB | **18.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 3 | Honnef, Bad-Brüngsberg RÜB | **18.2 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 4 | Neunkirchen-Salchendorf | **17.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 5 | Hürtgenwald-Raffelsbrand | **17.4 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 6 | Bergneustadt-Wiedenest RÜB | **16.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 7 | Münstereifel, Bad-Effelsberg | **16.5 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 8 | Königswinter-Bockeroth | **16.2 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 9 | Burbach-Holzhausen | **15.1 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 10 | Eitorf-Lascheid | **14.7 mm** | 2026-09-14 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
 <!-- TOP10_END -->
 
 ---
