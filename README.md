@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-14 14:56 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-15 13:23 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Honnef, Bad-Rottbitze RRB | **18.9 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Neunkirchen-Zeppenfeld HB | **18.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Honnef, Bad-Brüngsberg RÜB | **18.2 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 4 | Neunkirchen-Salchendorf | **17.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Hürtgenwald-Raffelsbrand | **17.4 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Bergneustadt-Wiedenest RÜB | **16.7 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Münstereifel, Bad-Effelsberg | **16.5 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Königswinter-Bockeroth | **16.2 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Burbach-Holzhausen | **15.1 mm** | 2026-09-14 15:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Eitorf-Lascheid | **14.7 mm** | 2026-09-14 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 1 | Herscheid Oestertalsperre Ebbetal | **2.0 mm** | 2026-09-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 2 | Gescher KA | **1.5 mm** | 2026-09-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 3 | Geldern-Vernum WW | **1.2 mm** | 2026-09-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 4 | Nettetal-Kaldenkirchen | **1.0 mm** | 2026-09-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 5 | Nottuln-Westerberg | **1.0 mm** | 2026-09-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 6 | Dorsten-Holsterhausen KA | **0.8 mm** | 2026-09-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Münstereifel, Bad-Effelsberg | **0.8 mm** | 2026-09-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Kleve-Warbeyen | **0.8 mm** | 2026-09-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Heiden KA | **0.7 mm** | 2026-09-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 10 | Neuenrade-Affeln | **0.7 mm** | 2026-09-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
 <!-- TOP10_END -->
 
 ---
