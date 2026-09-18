@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-17 13:18 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-18 12:52 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Warendorf-Freckenhorst KA | **19.5 mm** | 2026-09-17 14:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Ochtrup KA | **10.5 mm** | 2026-09-17 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 3 | Hörstel KA | **10.4 mm** | 2026-09-17 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Sassenberg KA | **10.2 mm** | 2026-09-17 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 5 | Beelen RUEB | **9.9 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Vlotho-Valdorf WW HB | **9.7 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Herford KA | **9.0 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Rhede KA | **8.9 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Kleve-Warbeyen | **8.7 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 10 | Sprockhövel-Flockenhaus PW | **8.7 mm** | 2026-09-17 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Neunkirchen-Zeppenfeld HB | **4.4 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Drolshagen | **3.6 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Neunkirchen-Salchendorf | **3.6 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Bergneustadt-Wiedenest RÜB | **3.1 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 5 | Netphen-Lahnhof | **3.0 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 6 | Hilchenbach-Lützel SW | **2.9 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 7 | Hellenthal-Udenbreth | **2.9 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 8 | Hilchenbach-Oberndorf | **2.8 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 9 | Kleve-Warbeyen | **2.7 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Gummersbach-Piene-Lieberhausen HB | **2.5 mm** | 2026-09-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
 <!-- TOP10_END -->
 
 ---
