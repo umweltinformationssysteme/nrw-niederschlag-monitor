@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-19 12:25 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-09-20 12:59 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Dahlem-Esterbach Gestüt | **13.1 mm** | 2026-09-19 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Kleve-Warbeyen | **2.5 mm** | 2026-09-19 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Nieheim-Holzhausen | **2.4 mm** | 2026-09-19 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 4 | Herscheid Oestertalsperre Ebbetal | **1.6 mm** | 2026-09-19 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Gescher KA | **1.5 mm** | 2026-09-19 13:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 6 | Mettingen KA | **1.0 mm** | 2026-09-19 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Nottuln-Westerberg | **0.8 mm** | 2026-09-19 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Bünde-Spradow KA | **0.5 mm** | 2026-09-19 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Neuenrade-Affeln | **0.4 mm** | 2026-09-19 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Spenge-Bardüttingdorf | **0.3 mm** | 2026-09-19 13:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Hamminkeln RKB | **3.2 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 2 | Datteln-Hötting Schleuse | **2.8 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 3 | Schermbeck-Dämmerwald Isselkant | **2.8 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 4 | Dorsten-Holsterhausen KA | **2.7 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 5 | Kleve-Warbeyen | **1.7 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 6 | Haltern am See WW | **1.7 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 7 | Nordkirchen-Südkirchen | **1.7 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 8 | Herscheid Oestertalsperre Ebbetal | **1.6 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 9 | Bielefeld-Brackwede WW | **1.6 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 10 | Coesfeld KA | **1.5 mm** | 2026-09-20 08:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
 <!-- TOP10_END -->
 
 ---
