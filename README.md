@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-09-30 14:49 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-01 15:20 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **4.5 mm** | 2026-09-30 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Herscheid Oestertalsperre Ebbetal | **2.4 mm** | 2026-09-30 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Gescher KA | **1.7 mm** | 2026-09-30 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 4 | Mettingen KA | **1.0 mm** | 2026-09-30 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Paderborn-Neuhaus | **0.7 mm** | 2026-09-30 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 6 | Troisdorf-Sieglar | **0.6 mm** | 2026-09-30 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Düsseldorf-Hamm KA | **0.6 mm** | 2026-09-30 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Neuenrade-Affeln | **0.5 mm** | 2026-09-30 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Kalletal-Niedermeien | **0.5 mm** | 2026-09-30 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Spenge-Bardüttingdorf | **0.5 mm** | 2026-09-30 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Münstereifel, Bad-Effelsberg | **22.2 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 2 | Datteln-Hötting Schleuse | **20.4 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 3 | Drolshagen-Brachtpe HB | **20.3 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 4 | Münstereifel, Bad-Rupperath | **19.0 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 5 | Wilnsdorf-Niederdielfen KA | **18.9 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 6 | Kirchhundem-Herrntrop | **18.8 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 7 | Ibbenbüren-Laggenbeck | **18.7 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 8 | Essen-Hespertal KA | **18.6 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 9 | Finnentrop-Rönkhausen | **18.4 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 10 | Velbert-Neviges | **17.2 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
 <!-- TOP10_END -->
 
 ---
