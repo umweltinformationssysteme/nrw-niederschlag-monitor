@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-01 15:20 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-02 14:39 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Münstereifel, Bad-Effelsberg | **22.2 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Datteln-Hötting Schleuse | **20.4 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Drolshagen-Brachtpe HB | **20.3 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 4 | Münstereifel, Bad-Rupperath | **19.0 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Wilnsdorf-Niederdielfen KA | **18.9 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Kirchhundem-Herrntrop | **18.8 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Ibbenbüren-Laggenbeck | **18.7 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Essen-Hespertal KA | **18.6 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Finnentrop-Rönkhausen | **18.4 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Velbert-Neviges | **17.2 mm** | 2026-10-01 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Schieder-Schwalenberg | **48.4 mm** | 2026-10-02 15:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 2 | Steinheim KA | **47.7 mm** | 2026-10-02 15:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 3 | Nieheim KA | **43.8 mm** | 2026-10-02 15:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 4 | Wilnsdorf-Niederdielfen KA | **43.7 mm** | 2026-10-02 15:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 5 | Lichtenau-Kleinenberg | **40.8 mm** | 2026-10-02 15:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 6 | Finnentrop-Rönkhausen | **39.2 mm** | 2026-10-02 15:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 7 | Kirchhundem-Herrntrop | **38.4 mm** | 2026-10-02 15:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 8 | Marsberg-Mitte KA | **38.1 mm** | 2026-10-02 15:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 9 | Finnentrop-Rönkhausen 2 | **36.3 mm** | 2026-10-02 15:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 10 | Drolshagen-Brachtpe HB | **35.9 mm** | 2026-10-02 15:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
 <!-- TOP10_END -->
 
 ---
