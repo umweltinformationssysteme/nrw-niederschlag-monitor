@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-03 13:15 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-04 13:52 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **3.8 mm** | 2026-10-03 11:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 2 | Nottuln-Westerberg | **3.8 mm** | 2026-10-03 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Herscheid Oestertalsperre Ebbetal | **1.3 mm** | 2026-10-03 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 4 | Gescher KA | **1.1 mm** | 2026-10-03 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Neuenrade-Affeln | **0.5 mm** | 2026-10-03 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Düsseldorf-Hamm KA | **0.4 mm** | 2026-10-03 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Mettingen KA | **0.2 mm** | 2026-10-03 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Olpe-Rhode | **0.2 mm** | 2026-10-03 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Welver-Kirchwelver | **0.2 mm** | 2026-10-03 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Rietberg KA | **0.1 mm** | 2026-10-03 10:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 1 | Kleve-Warbeyen | **4.5 mm** | 2026-10-04 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Herscheid Oestertalsperre Ebbetal | **2.0 mm** | 2026-10-04 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 3 | Nottuln-Westerberg | **1.4 mm** | 2026-10-04 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 4 | Gescher KA | **1.0 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Troisdorf-Sieglar | **0.3 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Spenge-Bardüttingdorf | **0.3 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Mettingen KA | **0.3 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Paderborn-Neuhaus | **0.3 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Neuenrade-Affeln | **0.2 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 10 | Brilon-Esshoff KA | **0.1 mm** | 2026-10-04 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
 <!-- TOP10_END -->
 
 ---
