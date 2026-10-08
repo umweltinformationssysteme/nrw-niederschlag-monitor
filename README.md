@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-07 15:26 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-08 15:28 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **4.4 mm** | 2026-10-07 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Herscheid Oestertalsperre Ebbetal | **2.3 mm** | 2026-10-07 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Neuenrade-Affeln | **0.3 mm** | 2026-10-07 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 4 | Bünde-Spradow KA | **0.2 mm** | 2026-10-07 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 5 | Fröndenberg-Hohenheide RÜB | **0.1 mm** | 2026-10-07 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Versmold-Vorbruch | **0.1 mm** | 2026-10-07 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Spenge-Bardüttingdorf | **0.1 mm** | 2026-10-07 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Brilon-Madfeld KA | **0.1 mm** | 2026-10-07 16:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
-| 9 | Kirchhundem-Berghof HB | **0.1 mm** | 2026-10-07 16:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
-| 10 | Kalletal-Niedermeien | **0.1 mm** | 2026-10-07 16:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
+| 1 | Aachen-Kornelimünster RÜB | **44.8 mm** | 2026-10-08 16:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 2 | Selfkant-Wehr | **40.3 mm** | 2026-10-08 16:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 3 | Roetgen | **37.4 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 4 | Bielefeld-Brackwede WW | **35.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 5 | Sendenhorst-Hardt | **34.7 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 6 | Essen-Kettwig WW | **33.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 7 | Erkelenz-Gerderath | **33.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 8 | Nordkirchen-Südkirchen | **33.4 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 9 | Steinhagen KA | **32.3 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 10 | Sprockhövel-Flockenhaus PW | **32.0 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
 <!-- TOP10_END -->
 
 ---
