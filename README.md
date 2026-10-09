@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-08 15:28 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-09 15:11 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Aachen-Kornelimünster RÜB | **44.8 mm** | 2026-10-08 16:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
-| 2 | Selfkant-Wehr | **40.3 mm** | 2026-10-08 16:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
-| 3 | Roetgen | **37.4 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 4 | Bielefeld-Brackwede WW | **35.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 5 | Sendenhorst-Hardt | **34.7 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 6 | Essen-Kettwig WW | **33.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 7 | Erkelenz-Gerderath | **33.8 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 8 | Nordkirchen-Südkirchen | **33.4 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 9 | Steinhagen KA | **32.3 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 10 | Sprockhövel-Flockenhaus PW | **32.0 mm** | 2026-10-08 16:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 1 | Mettmann Bauhof | **17.6 mm** | 2026-10-09 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 2 | Solingen-Wald | **13.1 mm** | 2026-10-09 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 3 | Werther Westfalen | **13.0 mm** | 2026-10-09 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 4 | Bielefeld-Brackwede WW | **12.2 mm** | 2026-10-09 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 5 | Oerlinghausen KA | **10.8 mm** | 2026-10-09 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 6 | Kürten-Rothe Furth | **10.5 mm** | 2026-10-09 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 7 | Kürten-Sülze KA | **10.3 mm** | 2026-10-09 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 8 | Altenbeken-Buke WW | **9.8 mm** | 2026-10-09 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Altenbeken-Buke | **9.3 mm** | 2026-10-09 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Sundern-Röhrenspring HB | **8.9 mm** | 2026-10-09 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
