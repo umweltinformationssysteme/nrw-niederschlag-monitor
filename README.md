@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-11 14:50 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-12 17:41 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Ibbenbüren-Laggenbeck | **11.6 mm** | 2026-10-11 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Legden KA | **11.5 mm** | 2026-10-11 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 3 | Neuenkirchen-Sankt Arnold | **11.4 mm** | 2026-10-11 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Ibbenbüren-Schafberg HB | **10.7 mm** | 2026-10-11 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 5 | Hörstel KA | **10.2 mm** | 2026-10-11 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 6 | Altenberge KA | **9.8 mm** | 2026-10-11 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Laasphe, Bad-Banfe HB | **8.4 mm** | 2026-10-11 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Spenge-Bardüttingdorf | **8.2 mm** | 2026-10-11 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Netphen-Nauholz Forsthaus | **8.2 mm** | 2026-10-11 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 10 | Gronau KA | **8.2 mm** | 2026-10-11 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Lengerich KA | **6.3 mm** | 2026-10-12 18:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 2 | Aue | **4.8 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Hörstel KA | **3.6 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Tecklenburg | **2.7 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 5 | Versmold-Vorbruch | **2.7 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 6 | Lienen | **2.4 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 7 | Kleve-Warbeyen | **2.2 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 8 | Schöppingen KA | **2.1 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 9 | Herscheid Oestertalsperre Ebbetal | **2.0 mm** | 2026-10-12 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Heek-Nienborg KA | **1.8 mm** | 2026-10-12 18:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
 <!-- TOP10_END -->
 
 ---
