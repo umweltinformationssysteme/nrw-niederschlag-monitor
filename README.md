@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-13 15:49 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-14 13:33 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kerpen-Haus-Forst Deponie | **4.0 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Kürten-Sülze KA | **3.5 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Kürten-Rothe Furth | **3.4 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 4 | Honnef, Bad-Rottbitze RRB | **3.3 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 5 | Solingen-Wald | **3.2 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 6 | Remscheid-Lennep WW | **3.2 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 7 | Düren WW | **3.0 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 8 | Drolshagen | **3.0 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 9 | Attendorn-Windhausen HB | **2.9 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 10 | Aue | **2.8 mm** | 2026-10-13 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 1 | Horn, Bad-Meinberg-Feldrom WW | **6.5 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 2 | Ibbenbüren-Laggenbeck | **6.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 3 | Neuenkirchen-Sankt Arnold | **6.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 4 | Tecklenburg | **5.5 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 5 | Finnentrop-Rönkhausen | **5.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 6 | Rödinghausen-Schwenningdorf RBF | **5.2 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 7 | Altenbeken-Buke WW | **5.2 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 8 | Hellenthal-Udenbreth | **5.1 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 9 | Eitorf KA | **5.0 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 10 | Schlangen-Oesterholz WW | **4.7 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
 <!-- TOP10_END -->
 
 ---
