@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-14 13:33 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-15 13:17 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Horn, Bad-Meinberg-Feldrom WW | **6.5 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 2 | Ibbenbüren-Laggenbeck | **6.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 3 | Neuenkirchen-Sankt Arnold | **6.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 4 | Tecklenburg | **5.5 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 5 | Finnentrop-Rönkhausen | **5.3 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 6 | Rödinghausen-Schwenningdorf RBF | **5.2 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 7 | Altenbeken-Buke WW | **5.2 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 8 | Hellenthal-Udenbreth | **5.1 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 9 | Eitorf KA | **5.0 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 10 | Schlangen-Oesterholz WW | **4.7 mm** | 2026-10-14 12:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 1 | Kleve-Warbeyen | **3.7 mm** | 2026-10-15 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Herscheid Oestertalsperre Ebbetal | **2.9 mm** | 2026-10-15 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Langerwehe KA | **1.4 mm** | 2026-10-15 14:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 4 | Neuenrade-Affeln | **0.6 mm** | 2026-10-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Werl-Büderich RÜB | **0.3 mm** | 2026-10-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Vreden KA | **0.2 mm** | 2026-10-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Mettingen KA | **0.2 mm** | 2026-10-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Olpe-Rhode | **0.1 mm** | 2026-10-15 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Paderborn-Neuhaus | **0.1 mm** | 2026-10-15 01:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 10 | Berleburg, Bad-Wemlinghausen HB | **0.1 mm** | 2026-10-15 14:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
 <!-- TOP10_END -->
 
 ---
