@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-17 12:05 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-18 12:33 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Hagen-Selbecke | **27.8 mm** | 2026-10-17 12:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 2 | Hagen-Wehringhausen | **25.4 mm** | 2026-10-17 12:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 3 | Iserlohn-Hennen KA | **22.0 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 4 | Hagen-Holthausen | **21.6 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Iserlohn-Wermingsen WW | **21.6 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Nachrodt-Wiblingwerde-Lohagen | **20.3 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Iserlohn-Kesbern | **20.3 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Witten-Schnee | **20.2 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Witten-Gedern | **19.8 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Iserlohn-Hegenscheid HB | **19.7 mm** | 2026-10-17 12:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Hürtgenwald-Hürtgen | **11.5 mm** | 2026-10-18 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 2 | Schmallenberg-Kirchrarbach HB | **9.0 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 3 | Simmerath-Eicherscheid | **6.9 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 4 | Meschede-Enster-Knick | **6.7 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Huertgenwald-Althubertshöhe | **6.1 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Arnsberg-Lattenberg | **5.2 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Warstein Bauhof | **5.1 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Rüthen KA | **4.9 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 9 | Kleve-Warbeyen | **4.8 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Arnsberg-Ochsenkopf Deponie | **4.7 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
 <!-- TOP10_END -->
 
 ---
