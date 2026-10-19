@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-18 12:33 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-19 15:28 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Hürtgenwald-Hürtgen | **11.5 mm** | 2026-10-18 13:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Schmallenberg-Kirchrarbach HB | **9.0 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 3 | Simmerath-Eicherscheid | **6.9 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 4 | Meschede-Enster-Knick | **6.7 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 5 | Huertgenwald-Althubertshöhe | **6.1 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Arnsberg-Lattenberg | **5.2 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Warstein Bauhof | **5.1 mm** | 2026-10-18 13:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Rüthen KA | **4.9 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 9 | Kleve-Warbeyen | **4.8 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 10 | Arnsberg-Ochsenkopf Deponie | **4.7 mm** | 2026-10-18 13:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 1 | Blankenheim-Freilingen | **9.3 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 2 | Kreuzau-Thum RÜB | **8.7 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 3 | Blankenheim HB | **8.5 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 4 | Huertgenwald-Althubertshöhe | **8.1 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Münstereifel, Bad-Effelsberg | **7.7 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Düren WW | **7.5 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Münstereifel, Bad-Rupperath | **7.4 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Langerwehe KA | **6.7 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Langerwehe-Schlich | **6.7 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Hürtgenwald-Hürtgen | **6.6 mm** | 2026-10-19 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
