@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-20 13:29 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-21 13:39 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **2.5 mm** | 2026-10-20 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Herscheid Oestertalsperre Ebbetal | **2.2 mm** | 2026-10-20 14:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Paderborn-Neuhaus | **0.3 mm** | 2026-10-20 10:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 4 | Spenge-Bardüttingdorf | **0.3 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 5 | Langerwehe KA | **0.2 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Vreden KA | **0.2 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Düsseldorf-Hamm KA | **0.1 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Marsberg-Giershagen | **0.1 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Troisdorf-Sieglar | **0.1 mm** | 2026-10-20 14:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Versmold-Vorbruch | **0.1 mm** | 2026-10-20 14:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
+| 1 | Neunkirchen-Seelscheid KA | **11.4 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 2 | Ruppichteroth-Hänscheid | **10.6 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 3 | Nümbrecht-Homburg-Bröl KA | **10.1 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 4 | Engelskirchen-Ründeroth KA | **9.8 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Lohmar-Wahlscheid-Höffen HB | **9.6 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Gummersbach-Piene-Lieberhausen HB | **9.5 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Eitorf KA | **9.5 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Kürten-Sülze KA | **9.1 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Bergneustadt-Wiedenest RÜB | **8.9 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Lindlar-Frielingsdorf RÜB | **8.9 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
