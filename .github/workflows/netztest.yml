@@ -1,0 +1,33 @@
+name: Netztest Hochwasserportal
+
+on:
+  workflow_dispatch:   # manuell startbar über den Actions-Tab
+
+jobs:
+  netztest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Runner-Infos (IP und Standort)
+        run: |
+          curl -sS --max-time 15 https://ipinfo.io/json || true
+
+      - name: DNS-Auflösung (IPv4 und IPv6)
+        run: |
+          getent ahosts www.hochwasserportal.nrw || true
+
+      - name: Test IPv4
+        run: |
+          curl -4 -sS -o /dev/null --max-time 20 \
+            -w "IPv4: HTTP %{http_code}, Connect %{time_connect}s, Gesamt %{time_total}s, IP %{remote_ip}\n" \
+            https://www.hochwasserportal.nrw/data/downloads/niederschlag.zip || echo "IPv4: FEHLGESCHLAGEN (exit $?)"
+
+      - name: Test IPv6
+        run: |
+          curl -6 -sS -o /dev/null --max-time 20 \
+            -w "IPv6: HTTP %{http_code}, Connect %{time_connect}s, Gesamt %{time_total}s\n" \
+            https://www.hochwasserportal.nrw/data/downloads/niederschlag.zip || echo "IPv6: FEHLGESCHLAGEN (exit $?)"
+
+      - name: Kontrolltest (Google)
+        run: |
+          curl -sS -I --max-time 20 https://www.google.com | head -n 1 || echo "Google: FEHLGESCHLAGEN"
