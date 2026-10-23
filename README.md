@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-21 13:39 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-23 13:17 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Neunkirchen-Seelscheid KA | **11.4 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Ruppichteroth-Hänscheid | **10.6 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 3 | Nümbrecht-Homburg-Bröl KA | **10.1 mm** | 2026-10-21 14:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Engelskirchen-Ründeroth KA | **9.8 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 5 | Lohmar-Wahlscheid-Höffen HB | **9.6 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Gummersbach-Piene-Lieberhausen HB | **9.5 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Eitorf KA | **9.5 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Kürten-Sülze KA | **9.1 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Bergneustadt-Wiedenest RÜB | **8.9 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 10 | Lindlar-Frielingsdorf RÜB | **8.9 mm** | 2026-10-21 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Hellenthal-Udenbreth | **9.4 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 2 | Dorsten-Holsterhausen KA | **9.2 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 3 | Haltern am See WW | **9.2 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 4 | Kleve-Warbeyen | **9.1 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Engelskirchen-Ründeroth KA | **9.1 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Kranenburg Kreuzfurth | **9.1 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Emmerich Schöpfwerk Löwenberg | **8.9 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Drensteinfurt KA | **7.6 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Sendenhorst-Hardt | **7.6 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Kierspe KA | **7.4 mm** | 2026-10-23 14:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
