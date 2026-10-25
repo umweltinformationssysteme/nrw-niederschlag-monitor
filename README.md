@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-24 12:35 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-25 13:07 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kranenburg Kreuzfurth | **30.6 mm** | 2026-10-24 13:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 2 | Kleve-Warbeyen | **30.5 mm** | 2026-10-24 13:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 3 | Emmerich Schöpfwerk Löwenberg | **27.2 mm** | 2026-10-24 13:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 4 | Hagen-Selbecke | **25.4 mm** | 2026-10-24 13:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 5 | Hellenthal-Udenbreth | **25.0 mm** | 2026-10-24 13:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 6 | Vreden KA | **24.9 mm** | 2026-10-24 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Sprockhövel-Flockenhaus PW | **24.7 mm** | 2026-10-24 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Ahaus-Alstätte | **24.5 mm** | 2026-10-24 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Breckerfeld-Wengeberg HB | **24.1 mm** | 2026-10-24 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Hattingen-Niederwenigern Betriebshof | **22.1 mm** | 2026-10-24 13:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Monschau-Höfen HB | **58.4 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 2 | Monschau-Kalterherberg | **56.4 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 3 | Hellenthal-Udenbreth | **49.6 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 4 | Dahlem HB | **45.3 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 5 | Kürten-Rothe Furth | **43.2 mm** | 2026-10-25 14:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 6 | Gummersbach-Piene-Lieberhausen HB | **42.8 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 7 | Dahlem-Esterbach Gestüt | **42.0 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 8 | Hellenthal-Giescheid HB | **41.9 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 9 | Halver-Hagebüchen | **41.3 mm** | 2026-10-25 14:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 10 | Mettmann Bauhof | **40.8 mm** | 2026-10-25 13:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
 <!-- TOP10_END -->
 
 ---
