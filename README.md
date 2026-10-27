@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-10-26 15:04 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-10-27 14:18 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Hörstel KA | **10.4 mm** | 2026-10-26 15:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Ibbenbüren-Laggenbeck | **9.8 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 3 | Ibbenbüren-Schafberg HB | **8.2 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 4 | Hattingen-Niederwenigern Betriebshof | **7.5 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 5 | Iserlohn-Wermingsen WW | **6.3 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 6 | Balve KA | **6.2 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 7 | Brakel-Schmechten HB | **6.0 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 8 | Driburg, Bad-Herste KA | **5.8 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Rödinghausen-Schwenningdorf RBF | **5.6 mm** | 2026-10-26 01:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
-| 10 | Höxter Fachhochschule | **5.6 mm** | 2026-10-26 15:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Kürten-Rothe Furth | **2.1 mm** | 2026-10-27 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Hilchenbach-Oberndorf | **2.1 mm** | 2026-10-27 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Sundern-Röhrenspring HB | **2.0 mm** | 2026-10-27 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Finnentrop-Rönkhausen 2 | **2.0 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 5 | Kürten-Sülze KA | **1.8 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 6 | Hilchenbach-Vormwald HB | **1.8 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 7 | Finnentrop-Rönkhausen | **1.7 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 8 | Netphen-Nauholz Forsthaus | **1.6 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 9 | Hilchenbach-Lützel SW | **1.6 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 10 | Schmallenberg-Bracht PW | **1.5 mm** | 2026-10-27 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
 <!-- TOP10_END -->
 
 ---
