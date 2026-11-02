@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-01 14:54 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-02 18:07 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kleve-Warbeyen | **0.5 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 2 | Herscheid Oestertalsperre Ebbetal | **0.5 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 3 | Engelskirchen-Ründeroth KA | **0.5 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 4 | Langerwehe KA | **0.4 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 5 | Münstereifel, Bad-Rupperath | **0.4 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Hallenberg-Liesen | **0.3 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Münstereifel, Bad-Effelsberg | **0.3 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Warburg-Welda | **0.3 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Olsberg-Bruchhausen HB | **0.3 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Höxter Fachhochschule | **0.3 mm** | 2026-11-01 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Hamm-Süddinker | **4.5 mm** | 2026-11-02 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Bünde-Spradow KA | **4.3 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Enger-Klausheide | **4.1 mm** | 2026-11-02 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Steinhagen KA | **4.0 mm** | 2026-11-02 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 5 | Welver-Kirchwelver | **3.9 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 6 | Oelde KA | **3.9 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 7 | Spenge-Bardüttingdorf | **3.8 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 8 | Schloß-Holte-Stuckenbrock KA | **3.7 mm** | 2026-11-02 18:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 9 | Spenge KA | **3.6 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 10 | Rinteln-Goldbeck HB | **3.6 mm** | 2026-11-02 19:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
 <!-- TOP10_END -->
 
 ---
