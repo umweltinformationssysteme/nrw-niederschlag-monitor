@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-03 16:02 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-04 16:07 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Hellenthal-Udenbreth | **3.4 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Herscheid Oestertalsperre Ebbetal | **3.1 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Hellenthal-Giescheid HB | **3.1 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 4 | Hellenthal-Kreuzberg | **2.9 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 5 | Monschau-Höfen HB | **2.8 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 6 | Dahlem-Esterbach Gestüt | **2.7 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 7 | Blankenheim HB | **2.1 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 8 | Simmerath-Rurberg HB | **2.1 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 9 | Arnsberg-Ochsenkopf Deponie | **2.1 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 10 | Selfkant-Wehr | **2.0 mm** | 2026-11-03 16:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 1 | Herscheid Oestertalsperre Ebbetal | **1.4 mm** | 2026-11-04 16:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 2 | Kleve-Warbeyen | **0.8 mm** | 2026-11-04 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 3 | Langerwehe KA | **0.4 mm** | 2026-11-04 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 4 | Sendenhorst-Hardt | **0.3 mm** | 2026-11-04 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Paderborn-Neuhaus | **0.3 mm** | 2026-11-04 16:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Mettingen KA | **0.3 mm** | 2026-11-04 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Düsseldorf-Hamm KA | **0.2 mm** | 2026-11-04 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Horn, Bad-Meinberg-Feldrom WW | **0.1 mm** | 2026-11-04 17:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
+| 9 | Vreden KA | **0.1 mm** | 2026-11-04 17:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
+| 10 | Neuenrade-Affeln | **0.1 mm** | 2026-11-04 17:00 | ![Kein Niederschlag](https://img.shields.io/badge/-Kein_Niederschlag-FFFFFF?style=flat-square) Kein Niederschlag |
 <!-- TOP10_END -->
 
 ---
