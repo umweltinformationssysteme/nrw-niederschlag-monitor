@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-08 14:56 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-09 18:37 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Kranenburg Kreuzfurth | **2.7 mm** | 2026-11-08 15:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Wassenberg-Rothenbach | **1.2 mm** | 2026-11-08 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 3 | Hamminkeln RKB | **1.1 mm** | 2026-11-08 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 4 | Gütersloh WW | **1.1 mm** | 2026-11-08 15:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 5 | Rheda-Wiedenbrück-Rhede KA | **1.0 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Stadtlohn-Wendfeld | **0.9 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Bocholt-Mussum KA | **0.9 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Mettingen KA | **0.9 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Kleve-Warbeyen | **0.8 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Niederkrüchten | **0.8 mm** | 2026-11-08 15:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 1 | Mettingen KA | **0.6 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 2 | Warendorf-Freckenhorst KA | **0.5 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 3 | Hallenberg-Braunshausen | **0.4 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 4 | Witten-Schnee | **0.4 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Drensteinfurt KA | **0.4 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Kleve-Warbeyen | **0.4 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Sendenhorst-Hardt | **0.3 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Lengerich KA | **0.3 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Herscheid Oestertalsperre Ebbetal | **0.3 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 10 | Langerwehe KA | **0.2 mm** | 2026-11-09 19:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
 <!-- TOP10_END -->
 
 ---
