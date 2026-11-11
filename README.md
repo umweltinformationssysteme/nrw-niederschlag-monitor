@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-10 16:19 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-11 16:00 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Herscheid Oestertalsperre Ebbetal | **2.2 mm** | 2026-11-10 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Langerwehe KA | **0.7 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 3 | Hallenberg-Braunshausen | **0.5 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 4 | Warburg-Welda | **0.5 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 5 | Stemwede-Wehdem KA | **0.4 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 6 | Warburg-Welda 2 | **0.4 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 7 | Warburg-Scherfede WW | **0.2 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 8 | Düsseldorf-Hamm KA | **0.2 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 9 | Berleburg, Bad-Elsoff HB | **0.2 mm** | 2026-11-10 17:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
-| 10 | Medebach-Medelon | **0.2 mm** | 2026-11-10 01:00 | ![nicht aktuelle Werte](https://img.shields.io/badge/-nicht_aktuelle_Werte-808080?style=flat-square) nicht aktuelle Werte |
+| 1 | Übach-Palenberg-Frelenberg KA | **18.1 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 2 | Aachen-Soers KA 2 | **17.3 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 3 | Pulheim-Geyen | **17.0 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 4 | Niederzier-Krauthausen KA | **16.7 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 5 | Herzogenrath-Worm KA | **16.4 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 6 | Hürtgenwald-Raffelsbrand | **16.4 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 7 | Roetgen | **16.1 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 8 | Aldenhoven KA | **15.8 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 9 | Erkelenz-Hetzerath RÜB | **15.5 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 10 | Selfkant-Havert RÜB | **14.8 mm** | 2026-11-11 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
 <!-- TOP10_END -->
 
 ---
