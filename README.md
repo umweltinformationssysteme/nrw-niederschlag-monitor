@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-11 16:00 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-12 16:43 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Übach-Palenberg-Frelenberg KA | **18.1 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Aachen-Soers KA 2 | **17.3 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Pulheim-Geyen | **17.0 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 4 | Niederzier-Krauthausen KA | **16.7 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Herzogenrath-Worm KA | **16.4 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Hürtgenwald-Raffelsbrand | **16.4 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Roetgen | **16.1 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Aldenhoven KA | **15.8 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Erkelenz-Hetzerath RÜB | **15.5 mm** | 2026-11-11 16:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Selfkant-Havert RÜB | **14.8 mm** | 2026-11-11 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
+| 1 | Netphen-Lahnhof | **6.7 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 2 | Hilchenbach-Oberndorf | **6.2 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 3 | Netphen-Nauholz Forsthaus | **5.9 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 4 | Hilchenbach-Lützel SW | **5.8 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 5 | Kirchhundem Rhein Weser Turm | **5.6 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 6 | Bergneustadt-Wiedenest RÜB | **5.6 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 7 | Drolshagen | **5.5 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 8 | Lennestadt-Elspetal | **5.4 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 9 | Hellenthal-Udenbreth | **5.4 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 10 | Olpe-Rhode | **5.3 mm** | 2026-11-12 17:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
 <!-- TOP10_END -->
 
 ---
