@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-16 18:16 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-17 17:31 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Remscheid-Lennep WW | **28.1 mm** | 2026-11-16 19:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 2 | Breckerfeld-Wengeberg HB | **27.1 mm** | 2026-11-16 19:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 3 | Gummersbach-Piene-Lieberhausen HB | **26.1 mm** | 2026-11-16 19:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
-| 4 | Herscheid Oestertalsperre Ebbetal | **23.9 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Kierspe KA | **23.6 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Kürten-Rothe Furth | **22.8 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Lindlar-Frielingsdorf RÜB | **22.6 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Monschau-Kalterherberg | **21.4 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Kürten-Sülze KA | **21.3 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Attendorn-Windhausen HB | **21.1 mm** | 2026-11-16 19:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Attendorn-Windhausen HB | **30.4 mm** | 2026-11-17 18:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 2 | Hellenthal-Udenbreth | **28.9 mm** | 2026-11-17 18:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 3 | Herscheid Oestertalsperre Ebbetal | **28.3 mm** | 2026-11-17 18:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 4 | Kierspe KA | **26.1 mm** | 2026-11-17 18:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 5 | Gummersbach-Piene-Lieberhausen HB | **26.0 mm** | 2026-11-17 18:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 6 | Kreuztal KA | **25.0 mm** | 2026-11-17 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 7 | Finnentrop-Heggen | **24.8 mm** | 2026-11-17 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 8 | Freudenberg-Schlagsberg HB | **24.6 mm** | 2026-11-17 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 9 | Dahlem-Esterbach Gestüt | **24.0 mm** | 2026-11-17 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 10 | Netphen-Nauholz Forsthaus | **24.0 mm** | 2026-11-17 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
 <!-- TOP10_END -->
 
 ---
