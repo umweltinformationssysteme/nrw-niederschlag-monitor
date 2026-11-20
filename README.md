@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-19 17:14 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-20 16:53 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Olsberg-Bruchhausen HB | **23.9 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 2 | Brilon-Esshoff KA | **23.7 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 3 | Mülheim Ruhr Schleuse | **23.4 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 4 | Erndtebrück KA | **23.4 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 5 | Balve KA | **23.0 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 6 | Geldern-Vernum WW | **22.4 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 7 | Meschede-Enster-Knick | **21.7 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 8 | Warstein Bauhof | **21.6 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 9 | Arnsberg-Ochsenkopf Deponie | **21.4 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
-| 10 | Brilon-Bauhof | **21.2 mm** | 2026-11-19 18:00 | ![> 15 mm](https://img.shields.io/badge/->_15_mm-0721F0?style=flat-square) > 15 mm |
+| 1 | Nümbrecht-Homburg-Bröl KA | **42.6 mm** | 2026-11-20 17:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 2 | Drolshagen-Brachtpe HB | **41.6 mm** | 2026-11-20 17:00 | ![> 40 mm](https://img.shields.io/badge/->_40_mm-CF3ACE?style=flat-square) > 40 mm |
+| 3 | Hilchenbach-Oberndorf | **39.0 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 4 | Netphen-Nauholz Forsthaus | **37.9 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 5 | Kürten-Sülze KA | **37.9 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 6 | Roetgen | **37.4 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 7 | Drolshagen | **37.4 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 8 | Bergneustadt-Wiedenest RÜB | **37.0 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 9 | Freudenberg-Schlagsberg HB | **37.0 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
+| 10 | Erndtebrück KA | **36.1 mm** | 2026-11-20 17:00 | ![> 25 mm](https://img.shields.io/badge/->_25_mm-8D39C3?style=flat-square) > 25 mm |
 <!-- TOP10_END -->
 
 ---
