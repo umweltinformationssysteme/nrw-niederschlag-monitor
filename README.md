@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-21 16:01 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-22 16:08 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Roetgen | **12.2 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 2 | Hürtgenwald-Raffelsbrand | **12.2 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 3 | Monschau-Kalterherberg | **11.2 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 4 | Simmerath-Eicherscheid | **10.6 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 5 | Simmerath KA | **10.3 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 6 | Simmerath-Rurberg HB | **10.2 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 7 | Stolberg-Zweifall 2 | **10.1 mm** | 2026-11-21 16:00 | ![> 10 mm](https://img.shields.io/badge/->_10_mm-229FDD?style=flat-square) > 10 mm |
-| 8 | Honnef, Bad-Rottbitze RRB | **9.9 mm** | 2026-11-21 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 9 | Münstereifel, Bad-Effelsberg | **9.8 mm** | 2026-11-21 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
-| 10 | Hellenthal-Udenbreth | **9.6 mm** | 2026-11-21 16:00 | ![> 5 mm](https://img.shields.io/badge/->_5_mm-1BDAD8?style=flat-square) > 5 mm |
+| 1 | Lügde-Mischeid HB | **3.6 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 2 | Mettingen KA | **3.2 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 3 | Kalletal-Brosen HB | **2.3 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 4 | Vreden KA | **2.2 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 5 | Barntrup KA | **2.1 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 6 | Coesfeld KA | **2.0 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
+| 7 | Schieder-Schwalenberg | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 8 | Bünde-Spradow KA | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 9 | Gescher KA | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 10 | Spenge-Bardüttingdorf | **1.6 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
 <!-- TOP10_END -->
 
 ---
