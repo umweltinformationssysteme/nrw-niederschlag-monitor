@@ -3,7 +3,7 @@
 Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messstationen des
 [Hochwasserportals NRW](https://www.hochwasserportal.nrw/webpublic/index.html#/overview/Niederschlag).
 
-> Letzter Update: <!-- LAST_UPDATE --> _2026-11-22 16:08 UTC_
+> Letzter Update: <!-- LAST_UPDATE --> _2026-11-23 20:01 UTC_
 
 ---
 
@@ -12,16 +12,16 @@ Stündlich aktualisierte Auswertung der **24h-Niederschlagssummen** aller Messst
 <!-- TOP10_START -->
 | # | Station | Summe 24 h | Letzter Wert | Stufe |
 |---|---------|:----------:|:------------:|-------|
-| 1 | Lügde-Mischeid HB | **3.6 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 2 | Mettingen KA | **3.2 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 3 | Kalletal-Brosen HB | **2.3 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 4 | Vreden KA | **2.2 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 5 | Barntrup KA | **2.1 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 6 | Coesfeld KA | **2.0 mm** | 2026-11-22 17:00 | ![> 2 mm](https://img.shields.io/badge/->_2_mm-47C774?style=flat-square) > 2 mm |
-| 7 | Schieder-Schwalenberg | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 8 | Bünde-Spradow KA | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 9 | Gescher KA | **1.7 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
-| 10 | Spenge-Bardüttingdorf | **1.6 mm** | 2026-11-22 17:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 1 | Kleve-Warbeyen | **1.5 mm** | 2026-11-23 20:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 2 | Herscheid Oestertalsperre Ebbetal | **1.4 mm** | 2026-11-23 20:00 | ![> 1 mm](https://img.shields.io/badge/->_1_mm-9CD433?style=flat-square) > 1 mm |
+| 3 | Mettingen KA | **0.4 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 4 | Langerwehe KA | **0.2 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 5 | Kranenburg Kreuzfurth | **0.2 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 6 | Netphen-Helgersdorf HB | **0.2 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 7 | Lage, Kreis Lippe KA | **0.2 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 8 | Iserlohn-Kesbern | **0.1 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 9 | Werther Westfalen | **0.1 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
+| 10 | Spenge KA | **0.1 mm** | 2026-11-23 20:00 | ![> 0,1 mm](https://img.shields.io/badge/->_0.1_mm-FDFB6E?style=flat-square) > 0,1 mm |
 <!-- TOP10_END -->
 
 ---
